@@ -6,12 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="HTML5 Template Iteck Multi-Purpose themeforest" />
-    <meta name="description" content="Iteck - Multi-Purpose HTML5 Template" />
-    <meta name="author" content="" />
+    <meta name="keywords" content="Best website design services in Indore, Best android developer" />
+    <meta name="description" content="We are here to provide the best website designing services Indore since 10 years with the
+support of various types of technology we can provide android and iOS application development
+services along with the digital marketing SEO SMO and paid marketing" />
+    <meta name="author" content="modern technology" />
 
     <!-- Title  -->
-    <title>Best Design</title>
+    <title>Best website design services Indore | Best Application development | Digital marketing
+Indore</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
@@ -235,7 +238,7 @@
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="img">
-                            <img src="http://static1.squarespace.com/static/53696e86e4b03da224cbb170/58e4f4bdbf629acd46ec5307/5e2f67ffce43a718575e42d8/1596739309567/man-wearing-brown-suit-jacket-3184339.jpg?format=1500w" alt="">
+                            <img src="assets/img/team4.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -257,19 +260,19 @@
             <div class="content">
                 <div class="about-logos d-flex align-items-center justify-content-between border-bottom border-1 brd-light pb-20">
                     <a href="#" class="logo wow fadeInUp" data-wow-delay="0">
-                        <img src="assets/img/about/about_logos/1.png" alt="">
+                    <i class="fa fa-laptop" aria-hidden="true" style="font-size:50px!important;color:White"></i>
                     </a>
                     <a href="#" class="logo wow fadeInUp" data-wow-delay="0.2s">
-                        <img src="assets/img/about/about_logos/2.png" alt="">
+                    <i class="fa fa-mobile" aria-hidden="true" style="font-size:50px!important;color:White"></i>
                     </a>
                     <a href="#" class="logo wow fadeInUp" data-wow-delay="0.4s">
-                        <img src="assets/img/about/about_logos/3.png" alt="">
+                    <i class="fa fa-bullhorn" aria-hidden="true" style="font-size:50px!important;color:White"></i>
                     </a>
                     <a href="#" class="logo wow fadeInUp" data-wow-delay="0.6s">
-                        <img src="assets/img/about/about_logos/4.png" alt="">
+                    <i class="fa fa-building" aria-hidden="true" style="font-size:50px!important;color:White"></i>
                     </a>
                     <a href="#" class="logo wow fadeInUp" data-wow-delay="0.8s">
-                        <img src="assets/img/about/about_logos/5.png" alt="">
+                    <i class="fa fa-globe" aria-hidden="true" style="font-size:50px!important;color:White"></i>
                     </a>
                 </div>
                 <div class="about-info">
