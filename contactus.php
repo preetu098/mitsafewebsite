@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+<?php include('layout/header.php');?>
+=======
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -173,6 +176,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
         </div>
     </nav>
     <!-- ====== end navbar ====== -->
+>>>>>>> b62048d118f2d8e8a06fa33b047729d1c39cd84d
 
     <!--Contents-->
     <main class="contact-page style-5">

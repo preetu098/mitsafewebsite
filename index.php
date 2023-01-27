@@ -1,41 +1,43 @@
-<!DOCTYPE html>
+<?php include('layout/header.php')?>
+
+<!-- <!DOCTYPE html>
 <html lang="en">
 
-<head>
+<head> -->
     <!-- Metas -->
-    <meta charset="utf-8">
+    <!-- <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="keywords" content="Best website design services in Indore, Best android developer" />
     <meta name="description" content="We are here to provide the best website designing services Indore since 10 years with the
 support of various types of technology we can provide android and iOS application development
 services along with the digital marketing SEO SMO and paid marketing" />
-    <meta name="author" content="modern technology" />
+    <meta name="author" content="modern technology" /> -->
 
     <!-- Title  -->
-    <title>Best website design services Indore | Best Application development | Digital marketing
-Indore</title>
+    <!-- <title>Best website design services Indore | Best Application development | Digital marketing
+Indore</title> -->
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
+    <!-- <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" /> -->
 
     <!-- ====== bootstrap icons cdn ====== -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css"> -->
 
     <!-- bootstrap 5 -->
-    <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css"> -->
 
     <!-- ====== font family ====== -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 
     <link rel="stylesheet" href="assets/css/lib/all.min.css" />
     <link rel="stylesheet" href="assets/css/lib/animate.css" />
     <link rel="stylesheet" href="assets/css/lib/jquery.fancybox.css" />
     <link rel="stylesheet" href="assets/css/lib/lity.css" />
-    <link rel="stylesheet" href="assets/css/lib/swiper.min.css" />
+    <link rel="stylesheet" href="assets/css/lib/swiper.min.css" /> -->
     <!-- ====== global style ====== -->
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <!-- <link rel="stylesheet" href="assets/css/style.css" />
 </head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -47,16 +49,16 @@ Indore</title>
         }, 5000);
 	});
 </script>
-<body>
+<body> -->
 
     <!-- ====== start loading page ====== -->
-    <div id="preloader">
-    </div>
+    <!-- <div id="preloader">
+    </div> -->
     <!-- ====== end loading page ====== -->
 
 
     <!-- ====== start top navbar ====== -->
-    <div class="top-navbar style-1">
+    <!-- <div class="top-navbar style-1">
         <div class="container">
             <div class="content">
                 <div class="row align-items-center">
@@ -99,7 +101,7 @@ Indore</title>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- ====== end top navbar ====== -->
 
     <!--<div class="m-4" >-->
@@ -135,7 +137,7 @@ Indore</title>
     <!--</div>-->
 
     <!-- ====== start navbar ====== -->
-    <nav class="navbar navbar-expand-lg navbar-light style-1">
+    <!-- <nav class="navbar navbar-expand-lg navbar-light style-1">
         <div class="container">
             <a class="navbar-brand" href="#">
                 <img src="http://mitsafe.com/assets/images/morden-logo.png" alt="" style="height: 60px;width:200px">
@@ -203,7 +205,7 @@ Indore</title>
                 </div>
             </div>
         </div>
-    </nav>
+    </nav> -->
     <!-- ====== end navbar ====== -->
 
 
