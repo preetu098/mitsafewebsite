@@ -573,7 +573,7 @@ Indore</title> -->
                             </li>
                         </ul>
 
-                        <a href="page-about-5.html" class="btn butn-gard border-0 text-white wow fadeInUp">
+                        <a href="index.php" class="btn butn-gard border-0 text-white wow fadeInUp">
                             <span>How We Works</span>
                         </a>
                     </div>
