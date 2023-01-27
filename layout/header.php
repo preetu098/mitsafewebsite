@@ -62,12 +62,7 @@ Indore</title>
             </div>
         </div>
     </div>
-    <style>
-            ul li a
-            {
-                font-size:16px!important;
-            }
-    </style>
+   
     <!-- ====== end top navbar ====== -->
 
     <!-- ====== start navbar ====== -->
@@ -83,10 +78,10 @@ Indore</title>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav m-auto mb-2 mb-lg-0">
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown" style="font-size:16px!important;">
                         <!-- <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false"> -->
-                            <a class="nav-link" href="index.php">
+                            <a class="nav-link" href="index.php" style="font-size:16px!important;">
                             Homes
                         </a>
                         <!-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
@@ -99,34 +94,34 @@ Indore</title>
                             <li><a class="dropdown-item" href="home-digital-agency.html"> Digital Agency </a></li>
                         </ul> -->
                     </li>
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown" style="font-size:16px!important;">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
+                            data-bs-toggle="dropdown" aria-expanded="false" style="font-size:16px!important;">
                             pages
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="about.php">About</a></li>
+                            <li><a class="dropdown-item" href="about.php" style="font-size:16px!important;">About</a></li>
                             <!-- <li><a class="dropdown-item" href="page-product-5.html">Product</a></li> -->
-                            <li><a class="dropdown-item" href="service.php">Services</a></li>
+                            <li><a class="dropdown-item" href="service.php" style="font-size:16px!important;">Services</a></li>
                             
-                            <li><a class="dropdown-item" href="singlePost.php">Single Project</a></li>
-                            <li><a class="dropdown-item" href="singlePost.php">Single Blog</a></li>
+                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Project</a></li>
+                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Blog</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="portfolio.php">
+                    <li class="nav-item" >
+                        <a class="nav-link" href="portfolio.php" style="font-size:16px!important;">
                             portfolio
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="blog.php">
+                    <li class="nav-item" >
+                        <a class="nav-link" href="blog.php" style="font-size:16px!important;">
                             blog
                             <small
                                 class="fs-10px icon-20 rounded-pill bg-blue5 text-white fw-bold px-3 ms-2 d-inline-flex justify-content-center align-items-center">3</small>
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contactus.php">
+                    <li class="nav-item" >
+                        <a class="nav-link" href="contactus.php" style="font-size:16px!important;">
                             contact us
                         </a>
                     </li>
@@ -135,7 +130,7 @@ Indore</title>
                 <div class="nav-side">
                     <div class="d-flex align-items-center">
                         <span class="nav-item">
-                            <a class="nav-link" href="page-contact-5.html">
+                            <a class="nav-link" href="page-contact-5.html" style="font-size:16px!important;">
                                 <i class="bi bi-person fs-5 me-2"></i>
                                 sign in
                             </a>
