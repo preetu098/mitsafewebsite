@@ -844,7 +844,7 @@ photography...
                     </div>
                 </div>
                 <div class="team_box wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="avatar">
+                    <div class="avatar" style="height:250px;width:250px">
                         <img src="assets/sir.jpeg" alt="">
                     </div>
                     <div class="info">
@@ -868,8 +868,8 @@ photography...
                     </div>
                 </div>
                 <div class="team_box wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="avatar">
-                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
+                    <div class="avatar" style="height:250px;width:250px">
+                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="" >
                     </div>
                     <div class="info">
                     <h6><a href="#">Kajal Rathore</a></h6>
