@@ -112,7 +112,7 @@ Indore</title>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="page-blog-5.html">
+                        <a class="nav-link" href="blog.php">
                             blog
                             <small
                                 class="fs-10px icon-20 rounded-pill bg-blue5 text-white fw-bold px-3 ms-2 d-inline-flex justify-content-center align-items-center">3</small>
