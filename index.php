@@ -287,8 +287,8 @@ Indore</title> -->
                         </div>
                         <div class="col-lg-6">
                             <div class="info">
-                                <h6 class=" wow fadeInUp slow">We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
-                                <p class=" wow fadeInUp slow"> We are the perfect web design company in Bangalore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices. </p>    
+                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
+                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
                                 <a href="page-about-5.html" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                     <span>more about us</span>
                                 </a>
@@ -309,7 +309,8 @@ Indore</title> -->
                                     </span>
                                 </div>
                                 <div class="inf">
-                                    PROJECT COMPLETED
+                                    <h6>
+                                    PROJECT COMPLETED</h6>
                                 </div>
                             </div>
                         </div>
@@ -324,13 +325,13 @@ Indore</title> -->
                                     </span>
                                 </div>
                                 <div class="inf">
-                                    PROSSEIONALS
+                                    <h6>PROSSEIONALS</h6>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="num-item wow fadeInUp" data-wow-delay="0.4s">
-                                <div class="num">
+                            <div class="num">
                                     <span class="counter">
                                         7
                                     </span>
@@ -339,7 +340,8 @@ Indore</title> -->
                                     </span>
                                 </div>
                                 <div class="inf">
-                                    YEARS
+                                    <h6>
+                                    YEARS</h6>
                                 </div>
                             </div>
                         </div>
@@ -354,7 +356,7 @@ Indore</title> -->
                                     </span>
                                 </div>
                                 <div class="inf">
-                                    HAPPY CLIENTS
+                                <h6>  HAPPY CLIENTS</h6>
                                 </div>
                             </div>
                         </div>
@@ -792,14 +794,14 @@ photography...
     <section class="team section-padding pt-0 style-1">
         <div class="container">
             <div class="section-head mb-60 text-center">
-                <h6 class="color-main text-uppercase wow fadeInUp">Meet our Expert
+                <h6 class="color-main text-uppercase wow fadeInUp">Meet our Director
 </h6>
-                <h2 class="wow fadeInUp">
+                <!-- <h2 class="wow fadeInUp">
                     Clients Satisfaction, <span class="fw-normal">Our Reputation</span>
-                </h2>
+                </h2> -->
             </div>
             <div class="content">
-                <div class="team_box wow fadeInUp" data-wow-delay="0">
+                <!-- <div class="team_box wow fadeInUp" data-wow-delay="0">
                     <div class="avatar">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NDzB5_VomvtcZzhzQmPPo5sb5txFXERtwQ&usqp=CAU" alt="">
                     </div>
@@ -821,15 +823,14 @@ photography...
                             </a>
                         </div>
                     </div>
-                </div>
-                <div class="team_box wow fadeInUp" data-wow-delay="0.2s">
+                </div> -->
+                <div class="team_box wow fadeInUp" data-wow-delay="0.2s" style="visibility:hidden!important">
                     <div class="avatar">
-                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
+                       
                     </div>
                     <div class="info">
-                        <h6><a href="#">Bobby Kane</a></h6>
-                        <small>CTO</small>
-                        <div class="social_icons">
+                        
+                        <!-- <div class="social_icons">
                             <a href="#">
                                 <i class="fab fa-youtube"></i>
                             </a>
@@ -839,16 +840,16 @@ photography...
                             <a href="#">
                                 <i class="fab fa-github"></i>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="team_box wow fadeInUp" data-wow-delay="0.4s">
                     <div class="avatar">
-                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
+                        <img src="assets/sir.jpeg" alt="">
                     </div>
                     <div class="info">
-                        <h6><a href="#">Robert Downey Jr</a></h6>
-                        <small>Project Manager</small>
+                        <h6><a href="#">Devender Rathore</a></h6>
+                        <small>CEO</small>
                         <div class="social_icons">
                             <a href="#">
                                 <i class="fab fa-twitter"></i>
@@ -863,6 +864,7 @@ photography...
                                 <i class="fab fa-github"></i>
                             </a>
                         </div>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, earum!</p>
                     </div>
                 </div>
                 <div class="team_box wow fadeInUp" data-wow-delay="0.6s">
@@ -870,26 +872,12 @@ photography...
                         <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
                     </div>
                     <div class="info">
-                        <h6><a href="#">Andrew Robertson</a></h6>
-                        <small>Marketing Leader</small>
+                    <h6><a href="#">Kajal Rathore</a></h6>
+                        <small>CEO</small>
                         <div class="social_icons">
                             <a href="#">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <a href="#">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="team_box wow fadeInUp" data-wow-delay="0.8s">
-                    <div class="avatar">
-                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
-                    </div>
-                    <div class="info">
-                        <h6><a href="#">Alexander Avery</a></h6>
-                        <small>Creative Director</small>
-                        <div class="social_icons">
                             <a href="#">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
@@ -900,6 +888,27 @@ photography...
                                 <i class="fab fa-github"></i>
                             </a>
                         </div>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, earum!</p>
+                    </div>
+                </div>
+                <div class="team_box wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="avatar">
+                        <!-- <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt=""> -->
+                    </div>
+                    <div class="info">
+                        <!-- <h6><a href="#">Alexander Avery</a></h6>
+                        <small>Creative Director</small> -->
+                        <!-- <div class="social_icons">
+                            <a href="#">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div> -->
                     </div>
                 </div>
             </div>
