@@ -1,92 +1,11 @@
-<<<<<<< HEAD
-<?php include('layout/header.php');?>
-=======
 <!DOCTYPE html>
 <html lang="en">
-<?php
 
-include_once("sendmail.php");
 
-$sended_mail=false;
-
-$recaptcha_validated=true;
-
-if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])){ 
-
-    // if(isset($_POST['btnsubmit'])){ 
-       
-    $getResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.RECAPTCHA_SECRETKEY.'&response='.$_POST['g-recaptcha-response']);  
-     $responseData = json_decode($getResponse); 
-
-     if(    $responseData->success){
+<?php 
+include('layout/header.php');
+?> 
  
-     $subject='Contact Us-'.$_POST['fname']." ".$_POST['lname'];
-
-     $message=$_POST['message'];
-
-     $body="";
-     
-     $body="<p><b>Name=</b>".$_POST['fname']." ".$_POST['lname']."</p>";
-
-     $body=$body."<p><b>Email=</b>".$_POST['email']."</p>";
-     
-     $body=$body."<p><b>Mobile No.=</b>".$_POST['mob_no']."</p>";
- 
-     $body=$body."<p><b>Message=</b>".$message."</p>";
-
-
-     sendHtmlMail('moderntechnologies12@gmail.com',  $subject,     $body);
-     $sended_mail=true;
-
-     
-     }
-     else{
-        $recaptcha_validated=false;
-     }
-
-
-
-    } 
-
-?>
-
-<head>
-    <!-- Metas -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="HTML5 Template Iteck Multi-Purpose themeforest" />
-    <meta name="description" content="Iteck - Multi-Purpose HTML5 Template" />
-    <meta name="author" content="" />
-
-    <!-- Title  -->
-    <title>Contact Us</title>
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
-
-    <!-- ====== bootstrap icons cdn ====== -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-
-    <!-- bootstrap 5 -->
-    <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css">
-
-    <!-- ====== font family ====== -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
-
-    <link rel="stylesheet" href="assets/css/lib/all.min.css" />
-    <link rel="stylesheet" href="assets/css/lib/animate.css" />
-    <link rel="stylesheet" href="assets/css/lib/jquery.fancybox.css" />
-    <link rel="stylesheet" href="assets/css/lib/lity.css" />
-    <link rel="stylesheet" href="assets/css/lib/swiper.min.css" />
-    
-    <!-- ====== global style ====== -->
-    <link rel="stylesheet" href="assets/css/style.css" />
-</head>
-
-<body>
-
     <!-- ====== start loading page ====== -->
     <div id="preloader">
     </div>
