@@ -1,5 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+
+include_once("sendmail.php");
+
+$sended_mail=false;
+
+$recaptcha_validated=true;
+
+if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])){ 
+
+    // if(isset($_POST['btnsubmit'])){ 
+       
+    $getResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.RECAPTCHA_SECRETKEY.'&response='.$_POST['g-recaptcha-response']);  
+     $responseData = json_decode($getResponse); 
+
+     if(    $responseData->success){
+ 
+     $subject='Contact Us-'.$_POST['fname']." ".$_POST['lname'];
+
+     $message=$_POST['message'];
+
+     $body="";
+     
+     $body="<p><b>Name=</b>".$_POST['fname']." ".$_POST['lname']."</p>";
+
+     $body=$body."<p><b>Email=</b>".$_POST['email']."</p>";
+     
+     $body=$body."<p><b>Mobile No.=</b>".$_POST['mob_no']."</p>";
+ 
+     $body=$body."<p><b>Message=</b>".$message."</p>";
+
+
+     sendHtmlMail('rjohri22@gmail.com',  $subject,     $body);
+     $sended_mail=true;
+
+     
+     }
+     else{
+        $recaptcha_validated=false;
+     }
+
+
+
+    } 
+
+?>
 
 <head>
     <!-- Metas -->
@@ -11,7 +57,7 @@
     <meta name="author" content="" />
 
     <!-- Title  -->
-    <title>Iteck</title>
+    <title>Contact Us</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" />
@@ -146,35 +192,62 @@
                 <div class="content">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
-                            <form action="contact.php" class="form" method="post">
+                            <?php
+
+                            if(  $sended_mail==true){
+                                ?>
+                                <div class="alert alert-success">Contact Us Form submitted successfully, We will contact you shortly</div>
+
+                                <?php
+
+                            }
+                            else if(   $recaptcha_validated==false){
+                                ?>
+                                <div class="alert alert-warning">Please verify you are not robot</div>
+
+                                <?php
+
+                            }
+
+                            ?> 
+                            <form action="contactus.php" class="form" method="post">
                                 <p class="text-center text-danger fs-12px mb-30">The field is required mark as *</p>
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="name" class="form-control" placeholder="First Name"> 
+                                            <input type="text" name="fname" class="form-control" placeholder="First Name" required> 
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name=lname" class="form-control" placeholder="Last Name" required>
+                                            <input type="text" name="lname" class="form-control" placeholder="Last Name" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="phone" class="form-control"  placeholder="Email Address">
+                                            <input type="text" name="email" class="form-control"  placeholder="Email Address" required>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group mb-20">
-                                            <input type="text" name="website" class="form-control" placeholder="Mobile Number">
+                                            <input type="text" name="mob_no" class="form-control" placeholder="Mobile Number" required>
                                         </div>
                                     </div>
                                    
                                     <div class="col-lg-12">
                                         <div class="form-group">
-                                            <textarea rows="10" name="message" class="form-control" placeholder="message here"></textarea>
+                                            <textarea rows="10" name="message" class="form-control" placeholder="message here" required></textarea>
                                         </div>
                                     </div>
+
+                                    <div class="col-lg-12">
+                                        <div class="form-group">
+                                        <div class="g-recaptcha" data-sitekey="6LcQdS4kAAAAAIvaPOvXtOKUmoUbxrWvF2xznL4f"></div>
+                                  
+                                        </div>
+
+                                        </div>
+
                                     <div class="col-lg-12 text-center" style="visibility: hidden;""">
                                         <div class="form-check d-inline-flex mt-30 mb-30">
                                             <input class="form-check-input me-2 mt-0" type="checkbox" value="" id="flexCheckDefault">
@@ -183,8 +256,9 @@
                                             </label>
                                         </div>
                                     </div>
+                              
                                     <div class="col-lg-12 text-center">
-                                        <input type="submit" value="Send Your Request" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
+                                        <input type="submit" name="btnsubmit" value="Send Your Request" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold text-light">
                                     </div>
                                 </div>
                             </form>
@@ -219,6 +293,7 @@
 <script src="assets/js/lib/pace.js"></script>
 <script src="assets/js/lib/scrollIt.min.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </body>
 
 </html>
