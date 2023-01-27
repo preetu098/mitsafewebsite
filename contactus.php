@@ -1,101 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-<?php 
+<?php
 include('layout/header.php');
-?> 
+
+include_once("sendmail.php");
+
+$sended_mail=false;
+
+$recaptcha_validated=true;
+
+if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])){ 
+
+    // if(isset($_POST['btnsubmit'])){ 
+       
+    $getResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.RECAPTCHA_SECRETKEY.'&response='.$_POST['g-recaptcha-response']);  
+     $responseData = json_decode($getResponse); 
+
+     if(    $responseData->success){
  
-    <!-- ====== start loading page ====== -->
-    <div id="preloader">
-    </div>
-    <!-- ====== end loading page ====== -->
+     $subject='Contact Us-'.$_POST['fname']." ".$_POST['lname'];
 
-    <!-- ====== start top navbar ====== -->
-    <div class="top-navbar style-5">
-        <div class="container">
-            <div class="content text-white">
-                <span class="btn sm-butn bg-white py-0 px-2 me-2 fs-10px">
-                    <small class="fs-10px">Special</small>
-                </span>
-                <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15">
-                <span class="fs-10px op-6">Get </span>
-                <small class="op-10 fs-10px">20% Discount</small>
-                <span class="fs-10px op-6">Get for New Account</span>
-                <a href="#" class="fs-10px text-decoration-underline ms-2">Register Now</a>
-            </div>
-        </div>
-    </div>
-    <!-- ====== end top navbar ====== -->
+     $message=$_POST['message'];
 
-    <!-- ====== start navbar ====== -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-transparent style-5">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                 <img src="http://mitsafe.com/assets/images/morden-logo.png" alt="" style="height: 60px;width:200px">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav m-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.php">
-                            home
-                        </a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            pages
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="about.php">about</a></li>
-                            <li><a class="dropdown-item" href="page-product-5.html">product</a></li>
-                            <li><a class="dropdown-item" href="service.php">services</a></li>
-                            <li><a class="dropdown-item" href="page-shop-5.html">shop</a></li>
-                            <li><a class="dropdown-item" href="page-single-project-5.html">single project</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                         <a class="nav-link" href="portfolio.php">
-                            portfolio
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="page-blog-5.html">
-                            blog
-                            <small
-                                class="fs-10px icon-20 rounded-pill bg-blue5 text-white fw-bold px-3 ms-2 d-inline-flex justify-content-center align-items-center">3</small>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contactus.php">
-                            contact us
-                        </a>
-                    </li>
-                    
-                </ul>
-                <div class="nav-side">
-                    <div class="d-flex align-items-center">
-                        <span class="nav-item">
-                            <a class="nav-link" href="page-contact-5.html">
-                                <i class="bi bi-person fs-5 me-2"></i>
-                                sign in
-                            </a>
-                        </span>
-                        <a href="page-contact-5.html" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold">
-                            <span>Start Free Trial <i class="bi bi-arrow-right ms-1"></i> </span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </nav>
-    <!-- ====== end navbar ====== -->
->>>>>>> b62048d118f2d8e8a06fa33b047729d1c39cd84d
+     $body="";
+     
+     $body="<p><b>Name=</b>".$_POST['fname']." ".$_POST['lname']."</p>";
+
+     $body=$body."<p><b>Email=</b>".$_POST['email']."</p>";
+     
+     $body=$body."<p><b>Mobile No.=</b>".$_POST['mob_no']."</p>";
+ 
+     $body=$body."<p><b>Message=</b>".$message."</p>";
+
+
+     sendHtmlMail('moderntechnologies12@gmail.com',  $subject,     $body);
+     $sended_mail=true;
+
+     
+     }
+     else{
+        $recaptcha_validated=false;
+     }
+
+
+
+    } 
+
+?> 
 
     <!--Contents-->
     <main class="contact-page style-5">
