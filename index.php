@@ -824,8 +824,8 @@ photography...
                         </div>
                     </div>
                 </div> -->
-                <div class="team_box wow fadeInUp" data-wow-delay="0.2s" style="visibility:hidden!important">
-                    <div class="avatar">
+                <div class="team_box wow fadeInUp" data-wow-delay="0.2s" style="width:105px;!important">
+                    <div class="avatar" style="width:20px;">
                        
                     </div>
                     <div class="info">
@@ -867,7 +867,26 @@ photography...
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, earum!</p>
                     </div>
                 </div>
-                <div class="team_box wow fadeInUp" data-wow-delay="0.6s">
+                <div class="team_box wow fadeInUp" data-wow-delay="0.2s" style="width:55px;">
+                    <div class="avatar" style="width:20px;">
+                       
+                    </div>
+                    <div class="info">
+                        
+                        <!-- <div class="social_icons">
+                            <a href="#">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-linkedin-in"></i>
+                            </a>
+                            <a href="#">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="team_box wow fadeInUp" data-wow-delay="0.6s" style="margin-left:20px!important">
                     <div class="avatar" style="height:250px;width:250px">
                         <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="" >
                     </div>
