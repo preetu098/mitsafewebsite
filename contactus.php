@@ -240,7 +240,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-12">
+                                    <div class="col-lg-12" style="margin-top:30px;">
                                         <div class="form-group">
                                         <div class="g-recaptcha" data-sitekey="6LcQdS4kAAAAAIvaPOvXtOKUmoUbxrWvF2xznL4f"></div>
                                   
