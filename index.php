@@ -226,13 +226,13 @@ Indore</title> -->
                                 Web Design & Web Development Company in Indore - India | #Morden Technology
                             </div>
                             <div class="bttns mt-5">
-                                <a href="page-services-5.html" class="btn btn-dark">
+                                <a href="index.php" class="btn btn-dark">
                                     <span>our services</span>
                                 </a>
-                                <a href="https://youtu.be/pGbIOC83-So?t=21" data-lity class="vid-btn">
+                                <a href="https://www.youtube.com/watch?v=Oa9aWdcCC4o" data-lity class="vid-btn">
                                     <i class="bi bi-play wow heartBeat infinite slow"></i>
                                     <span>
-                                        Iteck’s <br> Showreels
+                                        Modern<br> Technology
                                     </span>
                                 </a>
                             </div>
@@ -524,9 +524,11 @@ Indore</title> -->
                 <div class="col-lg-5">
                     <div class="info">
                         <div class="section-head mb-60">
-                            <h6 class="color-main text-uppercase wow fadeInUp">Why choose us</h6>
+                            <h6 class="color-main text-uppercase wow fadeInUp">Why Choose US?
+</h6>
                             <h2 class="wow fadeInUp">
-                                Boost Your Business <span class="fw-normal">With New Tech</span>
+                         
+                          Modern technology <span class="fw-normal"> comes with latest technology and high end support</span>
                             </h2>
                         </div>
                         <div class="text">
@@ -538,7 +540,8 @@ Indore</title> -->
                                     <i class="bi bi-check2"></i>
                                 </span>
                                 <h6>
-                                    Latest IT Solutions & Integration With Blockchain
+                                Latest technology and support
+
                                 </h6>
                             </li>
                             <li class="wow fadeInUp">
@@ -546,7 +549,8 @@ Indore</title> -->
                                     <i class="bi bi-check2"></i>
                                 </span>
                                 <h6>
-                                    Over 100+ Payment Gateways Support
+                                All types of services under one roof
+
                                 </h6>
                             </li>
                             <li class="wow fadeInUp">
@@ -554,7 +558,8 @@ Indore</title> -->
                                     <i class="bi bi-check2"></i>
                                 </span>
                                 <h6>
-                                    AI Machine & Deep Learning
+                                Reliable and dedicated support
+
                                 </h6>
                             </li>
                             <li class="wow fadeInUp">
@@ -562,7 +567,8 @@ Indore</title> -->
                                     <i class="bi bi-check2"></i>
                                 </span>
                                 <h6>
-                                    Dedicated Support 24/7
+                                Maintennace and hosting services support
+
                                 </h6>
                             </li>
                         </ul>
@@ -594,7 +600,7 @@ Indore</title> -->
                     </div>
                 </div>
             </div>
-            <div class="content wow fadeIn slow">
+            <div class="content wow fadeIn slow mt-5">
                 <div class="portfolio-slider">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
@@ -687,7 +693,7 @@ Indore</title> -->
                     </div>
 
                     <!-- ====== slider pagination ====== -->
-                    <div class="swiper-pagination"></div>
+                    <div class="swiper-pagination" ></div>
 
                     <!-- ====== slider navigation ====== -->
                     <div class="swiper-button-next"></div>
@@ -702,7 +708,7 @@ Indore</title> -->
 
     
     <!-- ====== start testimonials ====== -->
-    <section class="testimonials section-padding style-1">
+    <section class="testimonials section-padding style-1" style="">
         <div class="container">
             <div class="section-head mb-60 text-center">
                 <h6 class="color-main text-uppercase wow fadeInUp">testimonials</h6>
@@ -714,8 +720,8 @@ Indore</title> -->
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="vid_img mb-2 mb-md-0 wow zoomIn slow">
-                            <img src="assets/img/testimonials/testi.jpeg" alt="">
-                            <a href="https://youtu.be/pGbIOC83-So?t=21" data-lity class="play_icon">
+                            <img src="assets/pt2.png" alt="">
+                            <a href="https://www.youtube.com/watch?v=Oa9aWdcCC4o" data-lity class="play_icon">
                                 <i class="bi bi-play"></i>
                             </a>
                             <div class="img_info wow fadeInUp">
@@ -792,7 +798,8 @@ Indore</title> -->
     <section class="team section-padding pt-0 style-1">
         <div class="container">
             <div class="section-head mb-60 text-center">
-                <h6 class="color-main text-uppercase wow fadeInUp">meet our expert</h6>
+                <h6 class="color-main text-uppercase wow fadeInUp">Meet our Expert
+</h6>
                 <h2 class="wow fadeInUp">
                     Clients Satisfaction, <span class="fw-normal">Our Reputation</span>
                 </h2>
@@ -800,14 +807,14 @@ Indore</title> -->
             <div class="content">
                 <div class="team_box wow fadeInUp" data-wow-delay="0">
                     <div class="avatar">
-                        <img src="https://opecfund.org/var/site/storage/images/_aliases/content/9/6/2/9/1269269-1-eng-GB/13fe631c3e98-ypdp_2.jpg" alt="">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7NDzB5_VomvtcZzhzQmPPo5sb5txFXERtwQ&usqp=CAU" alt="">
                     </div>
                     <div class="info">
-                        <h6><a href="#">Michael Edwards</a></h6>
+                        <h6><a href="#">Devendra Rathore</a></h6>
                         <small>CEO Founder</small>
                         <div class="social_icons">
                             <a href="#">
-                                <i class="fab fa-twitter"></i>
+                                <i class="fab fa-instagram"></i>
                             </a>
                             <a href="#">
                                 <i class="fab fa-facebook-f"></i>
@@ -816,7 +823,7 @@ Indore</title> -->
                                 <i class="fab fa-linkedin-in"></i>
                             </a>
                             <a href="#">
-                                <i class="fab fa-github"></i>
+                                <i class="fab fa-youtube"></i>
                             </a>
                         </div>
                     </div>
@@ -830,7 +837,7 @@ Indore</title> -->
                         <small>CTO</small>
                         <div class="social_icons">
                             <a href="#">
-                                <i class="fab fa-twitter"></i>
+                                <i class="fab fa-youtube"></i>
                             </a>
                             <a href="#">
                                 <i class="fab fa-linkedin-in"></i>
