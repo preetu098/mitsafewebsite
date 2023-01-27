@@ -105,7 +105,7 @@
                                     <a href="#" class="op-8">Posted on 3 Days ago</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html">Crypto Trend 2023</a>
+                                    <a href="page-single-blog.php">Crypto Trend 2023</a>
                                 </h5>
                                 <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
                                     changed the way we work, it’s that will everyone is now connected [...]
@@ -141,7 +141,7 @@
                                     <a href="#" class="op-8">Posted on 3 Days ago</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html">AI With Fingerprint</a>
+                                    <a href="page-single-blog.php">AI With Fingerprint</a>
                                 </h5>
                                 <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
                                     changed the way we work, it’s that will everyone is now connected [...]
@@ -177,7 +177,7 @@
                                     <a href="#" class="op-8">Posted on 3 Days ago</a>
                                 </small>
                                 <h5 class="fw-bold mt-10 title">
-                                    <a href="page-single-post-5.html">NFT Game! New Oppoturnity</a>
+                                    <a href="page-single-blog.php">NFT Game! New Oppoturnity</a>
                                 </h5>
                                 <p class="small mt-2 op-8 fs-10px">If there’s one way that wireless technology has
                                     changed the way we work, it’s that will everyone is now connected [...]
@@ -226,7 +226,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">How To Become A Python Develop Expert</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">How To Become A Python Develop Expert</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -263,7 +263,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">VR Game, Oppoturnity & Challenge</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">VR Game, Oppoturnity & Challenge</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -301,7 +301,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">6 Tips To Help You Build Your Social Media Effeciency & Better</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">6 Tips To Help You Build Your Social Media Effeciency & Better</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -339,7 +339,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">The New Trend Of Marketing With Tiktok, Should Or Not?</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">The New Trend Of Marketing With Tiktok, Should Or Not?</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -377,7 +377,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Workflow Strategy For E-Shop</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">Workflow Strategy For E-Shop</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -415,7 +415,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Wireframe For UI/UX</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">Wireframe For UI/UX</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -453,7 +453,7 @@
                                             <i class="bi bi-clock me-1"></i>
                                             <a href="#" class="op-8">12 Days ago</a>
                                         </small>
-                                        <a href="page-single-post-5.html" class="card-title mb-10">Freelancer Days 2022, What’s new?</a>
+                                        <a href="page-single-blog.php" class="card-title mb-10">Freelancer Days 2022, What’s new?</a>
                                         <p class="fs-13px color-666">If there’s one way that wireless technology has changed the way we work, it’s that will everyone [...]</p>
                                         <div class="auther-comments d-flex small align-items-center justify-content-between op-9">
                                             <div class="l_side d-flex align-items-center">
@@ -507,145 +507,29 @@
         <!-- ====== end all-news ====== -->
 
     </main>
-    <!--End-Contents-->
-
-    <!-- ====== start footer ====== -->
-    <footer class="style-5 border-top brd-gray">
-        <div class="container">
-            <div class="row gx-0 justify-content-between">
-                <div class="col-lg-3">
-                    <div class="items">
-                        <div class="title">
-                            Iteck - 1st eCommerce Dashboard
-                        </div>
-                        <small class="text">
-                            Over 25 years working in IT services developing software applications and mobile apps for
-                            clients all over the world. For your very specific industry, <br> we have highly-tailored IT
-                            solutions.
-                        </small>
-                        <div class="socail-icons">
-                            <a href="https://twitter.com/"
-                                class="icon-35 rounded-circle bg-gray overflow-hidden d-inline-flex align-items-center justify-content-center text-gray me-2" target="_blank">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="https://facebook.com/"
-                                class="icon-35 rounded-circle bg-gray overflow-hidden d-inline-flex align-items-center justify-content-center text-gray me-2" target="_blank">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="https://instagram.com/"
-                                class="icon-35 rounded-circle bg-gray overflow-hidden d-inline-flex align-items-center justify-content-center text-gray" target="_blank">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    <div class="items">
-                        <div class="title">
-                            Information
-                        </div>
-                        <small class="text mb-10 d-block">
-                            223 Thatcher Road St, Brookly, <br> Manhattan, NY 10463, US
-                        </small>
-                        <small class="text mb-10 d-block">
-                            +031 5689 89 98
-                        </small>
-                        <small class="text d-block">
-                            contact@Itecksolution.co
-                        </small>
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="items">
-                        <div class="title">
-                            Useful Links
-                        </div>
-                        <ul>
-                            <li>
-                                <a href="home-saas-technology.html"> Home </a>
-                            </li>
-                            <li>
-                                <a href="page-about-5.html"> About Iteck </a>
-                            </li>
-                            <li>
-                                <a href="page-portfolio-5.html"> Projects </a>
-                            </li>
-                            <li>
-                                <a href="page-product-5.html"> product </a>
-                            </li>
-                            <li>
-                                <a href="page-blog-5.html"> Blog </a>
-                            </li>
-                            <li>
-                                <a href="page-contact-5.html"> Contact </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="items">
-                        <div class="title">
-                            Resource
-                        </div>
-                        <ul>
-                            <li>
-                                <a href="#"> Online Documentation </a>
-                            </li>
-                            <li>
-                                <a href="#"> Roadmap </a>
-                            </li>
-                            <li>
-                                <a href="#"> Intergrations </a>
-                            </li>
-                            <li>
-                                <a href="#"> FAQs </a>
-                            </li>
-                            <li>
-                                <a href="#"> Help Center </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="foot">
-                <div class="row">
-                    <div class="col-lg-3">
-                        <div class="logo">
-                            <img src="assets/img/logo_foot_home5.png" alt="">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <small class="small">
-                            © 2022 Copyrights by <a href="#" class="fw-bold text-decoration-underline">Iteck Co.</a> All
-                            Rights Reserved. Designed by <a href="https://themeforest.net/user/themescamp"
-                                class="fw-bold text-decoration-underline">ThemesCamp</a>
-                        </small>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- ====== end footer ====== -->
-
-    <!-- ====== start to top button ====== -->
-    <a href="#" class="to_top bg-gray rounded-circle icon-40 d-inline-flex align-items-center justify-content-center">
-        <i class="bi bi-chevron-up fs-6 text-dark"></i>
-    </a>
-    <!-- ====== end to top button ====== -->
-
-    <!-- ====== request ====== -->
-    <script src="assets/js/lib/jquery-3.0.0.min.js"></script>
-    <script src="assets/js/lib/jquery-migrate-3.0.0.min.js"></script>
-    <script src="assets/js/lib/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/lib/wow.min.js"></script>
-    <script src="assets/js/lib/jquery.fancybox.js"></script>
-    <script src="assets/js/lib/lity.js"></script>
-    <script src="assets/js/lib/swiper.min.js"></script>
-    <script src="assets/js/lib/jquery.waypoints.min.js"></script>
-    <script src="assets/js/lib/jquery.counterup.js"></script>
-    <script src="assets/js/lib/pace.js"></script>
-    <script src="assets/js/lib/scrollIt.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <?php  include('layout/innerFooter.php')?>
+   <script src="assets/js/lib/jquery-3.0.0.min.js"></script>
+<script src="assets/js/lib/jquery-migrate-3.0.0.min.js"></script>
+<script src="assets/js/lib/bootstrap.bundle.min.js"></script>
+<script src="assets/js/lib/wow.min.js"></script>
+<script src="assets/js/lib/jquery.fancybox.js"></script>
+<script src="assets/js/lib/lity.js"></script>
+<script src="assets/js/lib/swiper.min.js"></script>
+<script src="assets/js/lib/jquery.waypoints.min.js"></script>
+<script src="assets/js/lib/jquery.counterup.js"></script>
+<script src="assets/js/lib/pace.js"></script>
+<script src="assets/js/lib/scrollIt.min.js"></script>
+<script src="assets/js/main.js"></script>
+    <script>
+        $('.upload_input').on('change', function(event) {
+            var files = event.target.files;
+            for (var i = 0; i < files.length; i++) {
+                var file = files[i];
+                $("#upload_text").html(file.name).css("color" , "#fff")
+                // $("<div class='file__value'><div class='file__value--text'>" + file.name + "</div><div class='file__value--remove' data-id='" + file.name + "' ></div></div>").insertAfter('#upload_text');
+            }
+        });
+    </script>
 
 </body>
 

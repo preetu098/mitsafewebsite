@@ -385,20 +385,19 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0">
                             <h5>
-                                <a href="page-services-5.html"> IT Consultation </a> 
+                                <a href="page-services.php">Website Designing & Development</a> 
                                 <span class="num">01</span>
                             </h5>
                             <div class="icon">
-                                <img src="assets/img/icons/serv_icons/1.png" alt="">
+                            <img src="assets/img/icons/serv_icons/3.png" alt="">
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                Website design services refer to creating and designing a website, including tasks such as layout, color
+scheme, and overall aesthetic...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Strategy</a>
-                                    <a href="#">Consultation</a>
-                                    <a href="#">Management</a>
+                                <a href="page-services.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -406,20 +405,18 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0.2s">
                             <h5>
-                                <a href="page-services-5.html"> Data Security </a> 
+                                <a href="page-services.php">Application Android & iOS Development</a> 
                                 <span class="num">02</span>
                             </h5>
                             <div class="icon">
-                                <img src="assets/img/icons/serv_icons/2.png" alt="">
+                                <img src="assets/img/icons/mobile.png" alt="">
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                Modern Technology offer the various types of application development services like Ecommerce, ERP...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Management</a>
-                                    <a href="#">Backup & Recovery</a>
-                                    <a href="#">Transfer</a>
+                                <a href="page-services.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -427,21 +424,20 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0.4s">
                             <h5>
-                                <a href="page-services-5.html"> Website Development </a> 
+                                <a href="page-services.php">Digital marketing &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a> 
                                 <span class="num">03</span>
                             </h5>
+                            <br>
                             <div class="icon">
-                                <img src="assets/img/icons/serv_icons/3.png" alt="">
+                            <img src="assets/img/icons/digi.png" alt="">
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                    
+                                Digital marketing refers to the promotion of products, services, or brands through electronic media...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Ecommerce</a>
-                                    <a href="#">Landing Page</a>
-                                    <a href="#">CMS</a>
-                                    <a href="#">Plugin</a>
+                                <a href="page-services.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -449,19 +445,18 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box mb-4 mb-md-0 wow fadeInUp" data-wow-delay="0">
                             <h5>
-                                <a href="page-services-5.html"> UI/UX Design </a> 
+                                <a href="page-services.php">Paid Marketing services&nbsp&nbsp&nbsp&nbsp&nbsp</a> 
                                 <span class="num">04</span>
                             </h5>
                             <div class="icon">
-                                <img src="assets/img/icons/serv_icons/4.png" alt="">
+                                <img src="assets/img/icons/p1.png" alt="">
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                Paid marketing, also known as paid advertising, is a form of digital marketing that involves paying for the placement...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Website</a>
-                                    <a href="#">Mobile App</a>
+                                <a href="page-services.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -469,19 +464,19 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box mb-4 mb-md-0 wow fadeInUp" data-wow-delay="0.2s">
                             <h5>
-                                <a href="page-services-5.html"> Cloud Services </a> 
+                                <a href="page-services.php">School ERP</a> 
                                 <span class="num">05</span>
                             </h5>
                             <div class="icon">
-                                <img src="assets/img/icons/serv_icons/5.png" alt="">
+                                <img src="assets/img/icons/serp.png" alt="">
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                A school ERP, or enterprise resource planning, is a software system that helps schools manage and automate various
+administrative...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Cloud Storerage</a>
-                                    <a href="#">Hosting & VPS</a>
+                                <a href="page-services.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -489,7 +484,7 @@ Indore</title> -->
                     <div class="col-lg-4">
                         <div class="service-box wow fadeInUp" data-wow-delay="0.4s">
                             <h5>
-                                <a href="page-services-5.html"> Game Development </a> 
+                                <a href="page-services.php">Graphic Design, UI & UX</a> 
                                 <span class="num">06</span>
                             </h5>
                             <div class="icon">
@@ -497,13 +492,12 @@ Indore</title> -->
                             </div>
                             <div class="info">
                                 <div class="text">
-                                    Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                Graphic design is the process of visual communication and problem-solving through the use of typography,
+photography...
                                 </div>
                                 <div class="tags">
-                                    <a href="#">Unity 2D/3D</a>
-                                    <a href="#">VR/AR</a>
-                                    <a href="#">iOS & Android</a>
-                                    <a href="#">HTC Vive</a>
+                                    <a href="page-services.php">Read More</a>
+                                   
                                 </div>
                             </div>
                         </div>

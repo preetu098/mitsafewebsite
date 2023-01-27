@@ -104,6 +104,7 @@ Indore</title>
                             <li><a class="dropdown-item" href="service.php">Services</a></li>
                             
                             <li><a class="dropdown-item" href="singlePost.php">Single Project</a></li>
+                            <li><a class="dropdown-item" href="singlePost.php">Single Blog</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
