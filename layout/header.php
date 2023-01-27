@@ -62,6 +62,12 @@ Indore</title>
             </div>
         </div>
     </div>
+    <style>
+            ul li a
+            {
+                font-size:16px!important;
+            }
+    </style>
     <!-- ====== end top navbar ====== -->
 
     <!-- ====== start navbar ====== -->
