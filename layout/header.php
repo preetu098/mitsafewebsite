@@ -17,7 +17,7 @@ services along with the digital marketing SEO SMO and paid marketing" />
     <!-- Title  -->
     <title>Best website design services Indore | Best Application development | Digital marketing
 Indore</title>
-
+    <link rel="preload" href="yourfont.extension">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/fav.png" title="Favicon" sizes="16x16" />
 
@@ -25,7 +25,7 @@ Indore</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 
     <!-- bootstrap 5 -->
-    <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap-icons.woff2">
 
     <!-- ====== font family ====== -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
