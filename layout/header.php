@@ -40,7 +40,8 @@ Indore</title>
 
     <!-- ====== global style ====== -->
     <link rel="stylesheet" href="assets/css/style.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.js"></script> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+  type="text/javascript"></script>
 </head>
 
 <body>
