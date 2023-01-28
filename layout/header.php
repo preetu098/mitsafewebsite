@@ -71,7 +71,7 @@ Indore</title>
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent style-5">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-                <img src="./assets/morden-logo.png" alt="logo">
+                <img src="./assets/morden-logo.png" alt="logo" height="50" width="500">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"

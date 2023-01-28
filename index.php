@@ -240,7 +240,7 @@ Indore</title> -->
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="img">
-                            <img src="assets/img/team4.png" alt="">
+                            <img src="assets/img/team4.png" height="500" width="500" alt="">
                         </div>
                     </div>
                 </div>
@@ -282,13 +282,13 @@ Indore</title> -->
                         <div class="col-lg-5">
                             <div class="title">
                                 <h3 class=" wow fadeInUp slow">“Technology is best when it brings people  together.”</h3>
-                                <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small>
+                                <!-- <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small> -->
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="info">
-                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
-                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
+                                <h6 class=" wow fadeInUp slow" >We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
+                                <h6 class=" wow fadeInUp slow" >We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
                                 <a href="page-about-5.html" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                     <span>more about us</span>
                                 </a>
