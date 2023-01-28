@@ -7,7 +7,7 @@
                     <div class="col-lg-4">
                         <div class="foot_info">
                             <a href="#" class="logo mb-3">
-                                <img src="http://mitsafe.com/assets/images/white-morden-logo.png" alt="">
+                                <img src="./assets/morden-logo.png" alt="logo" height="50" width="500" alt="">
                             </a>
                             <div class="text mb-4">
                                 <!--Best IT Solutions & Technology WordPress <br> Theme for Your Busines-->
