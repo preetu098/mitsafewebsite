@@ -386,10 +386,12 @@ Indore</title> -->
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0">
+                        <a href="page-services.php">
                             <h5>
-                                <a href="page-services.php">Website Designing & Development</a> 
+                               Website Designing & Development 
                                 <span class="num">01</span>
                             </h5>
+                            </a>
                             <div class="icon">
                             <img src="assets/img/icons/serv_icons/3.png" alt="">
                             </div>
