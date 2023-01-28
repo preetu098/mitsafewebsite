@@ -294,7 +294,7 @@
                                 <div class="swiper-slide">
                                     <div class="project-card style-6">
                                         <div class="img">
-                                            <img src="assets/img/portfolio/Screenshot (10).png" alt="">
+                                            <img src="assets/img/Screenshot (10).png" alt="">
                                         </div>
                                         <div class="info">
                                             <h3 class="title"><a href="#">modern technology</a></h3>
