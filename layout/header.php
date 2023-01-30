@@ -110,6 +110,7 @@ Indore</title>
                             
                             <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Project</a></li>
                             <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Blog</a></li>
+                            <li><a class="dropdown-item" href="page-career.php" style="font-size:16px!important;">Career</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >
