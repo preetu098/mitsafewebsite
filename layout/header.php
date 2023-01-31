@@ -1,22 +1,24 @@
 <!DOCTYPE html>
+<?php 
+include_once('config.php');
+
+ 
+$blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
+ 
+ 
+?>
 <html lang="en">
 <head>
     <!-- Metas -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="Best website design services in Indore, Best android developer, best digital marketing provider,
-Paid marketing Indore Best website developer India, iOS developer Indore, India best web
-designing services
-" />
-    <meta name="description" content="We are here to provide the best website designing services Indore since 10 years with the
-support of various types of technology we can provide android and iOS application development
-services along with the digital marketing SEO SMO and paid marketing" />
-    <meta name="author" content="modern technology" />
+    <meta name="keywords" content="<?php echo $blogdetail['keywords']; ?>" />
+    <meta name="description" content="<?php echo $blogdetail['description']; ?>" />
+    <meta name="author" content="<?php echo $blogdetail['author']; ?>" />
 
     <!-- Title  -->
-    <title>Best website design services Indore | Best Application development | Digital marketing
-Indore</title>
+    <title><?php echo $blogdetail['title']; ?></title>
     <link rel="preload" href="assets/css/bootstrap-icons.woff2">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/fav.png" title="Favicon" sizes="16x16" />
