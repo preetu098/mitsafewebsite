@@ -7,15 +7,18 @@
                 <div class="section-head text-center mb-60 style-5">
                     <h2 class="mb-20"> Our <span> Projects </span> </h2>
                     <p> With over 7+ years of our journey we have been proudly serving our clients in different industry verticals from small startups to large enterprises. </p>
+                    <p class="mt-3">Below are the references of some of our works, which makes you understand our capabilities and delivery process. Contact our team for advanced technology and crafted strategies to create conversion friendly business solutions for your business needs & to create an impactful digital presence.
+</p>
+<p class="mt-3">We analyze and deliver each project with technical finesse, innovative, creative, and precise execution tailored to the specific needs of your business.</p>
                 </div>
                 <div class="controls">
-                    <button type="button" class="control" data-filter="all">All</button>
-                    <button type="button" class="control" data-filter=".consultation">IT Consultation</button>
-                    <button type="button" class="control" data-filter=".security">Data Security</button>
-                    <button type="button" class="control" data-filter=".website">Website Development</button>
-                    <button type="button" class="control" data-filter=".design">UI/UX Design</button>
+                    <button type="button" class="control" data-filter="all">Show All</button>
+                    <button type="button" class="control" data-filter=".consultation">Logo Design</button>
+                    <button type="button" class="control" data-filter=".security">Web Design</button>
+                    <button type="button" class="control" data-filter=".website">Mobile Application</button>
+                    <!-- <button type="button" class="control" data-filter=".design">UI/UX Design</button>
                     <button type="button" class="control" data-filter=".cloud">Cloud Service</button>
-                    <button type="button" class="control" data-filter=".development">Game Development</button>
+                    <button type="button" class="control" data-filter=".development">Game Development</button> -->
                 </div>
                 <section class="portfolio style-1">
                     <div class="content">
@@ -23,19 +26,23 @@
                             <div class="col-lg-4 mix security consultation">
                                 <div class="portfolio-card mb-50">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (7).png" alt="">
+                                        <img src="assets/portfolio/portshort1.png" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
-                                            <a href="singlePost.php">Soulful Musik Academy</a> 
+                                            <a href="singlePost.php">Online Doctor's Appointment</a> 
                                         </h5>
-                                        <small class="d-block color-main text-uppercase">IT Consultation</small>
+                                      
                                         <div class="text">
-                                            Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                        Online doctor's Appointment for patient & Doctor Registration.
                                         </div>
                                         <div class="tags">
-                                            <a href="#">Consultation</a>
-                                            <a href="#">Management</a>
+                                            <a href="#">Online Appointment</a>
+                                            <a href="#">UI/UX</a>
+                                            <a href="#">WEB DESIGN</a>
+                                        </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -43,42 +50,49 @@
                             <div class="col-lg-4 mix design security">
                                 <div class="portfolio-card mb-50">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (8).png" alt="">
+                                        <img src="assets/portfolio/portshort2.png" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
-                                            <a href="singlePost.php"> LuckSkull </a> 
+                                            <a href="singlePost.php"> FxHub </a> 
                                         </h5>
-                                        <small class="d-block color-main text-uppercase">Website Development, UI/UX Design</small>
+                                       
                                         <div class="text">
-                                            Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                        Forex Hub is the fastest growing Best Forex Trading Signals.
                                         </div>
                                         <div class="tags">
-                                            <a href="#">WordPress</a>
-                                            <a href="#">PHP</a>
-                                            <a href="#">HTML/CSS</a>
-                                            <a href="#">Figma</a>
+                                            <a href="#">ECOMMERCE</a>
+                                            <a href="#">UI/UX</a>
+                                            <a href="#"> WEB DESIGN</a>
+                                            
+                                        </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 mix website development">
+                            <div class="col-lg-4 mix design security">
                                 <div class="portfolio-card mb-50">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (9).png" alt="">
+                                        <img src="assets/portfolio/portshort3.png" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
-                                            <a href="singlePost.php"> Raichandgroup
+                                            <a href="singlePost.php"> Morden Technology USA </a> 
                                         </h5>
-                                        <small class="d-block color-main text-uppercase">Game Developemnt</small>
+                                       
                                         <div class="text">
-                                            Trust our top minds to eliminate workflow pain points, implement new tech & app.
+                                        We provide online marketing strategies in USA for your business.
                                         </div>
                                         <div class="tags">
-                                            <a href="#">VR/AR</a>
-                                            <a href="#">iOS & Android</a>
-                                            <a href="#">Unity 2D/3D</a>
+                                            <a href="#">IT WEBSITE</a>
+                                            <a href="#">UI/UX</a>
+                                            <a href="#"> WEB DESIGN</a>
+                                            
+                                        </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -92,13 +106,16 @@
                                         <h5>
                                             <a href="singlePost.php">I-Rummy </a> 
                                         </h5>
-                                        <small class="d-block color-main text-uppercase">SEO analysis</small>
+                                       
                                         <div class="text">
                                             Trust our top minds to eliminate workflow pain points, implement new tech & app.
                                         </div>
                                         <div class="tags">
-                                            <a href="#">SEO Analysis</a>
-                                            <a href="#">Content Strategy</a>
+                                            <a href="#">UI/UX</a>
+                                            <a href="#">WEB DESIGN</a>
+                                        </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -106,15 +123,15 @@
                             <div class="col-lg-4 mix website development cloud">
                                 <div class="portfolio-card mb-50">
                                     <div class="img">
-                                        <img src="http://mitsafe.com/assets/images/portfolio/short/portshort2.png" alt="">
+                                        <img src="assets/portfolio/portshort4.png" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
-                                            <a href="singlePost.php">FxHub </a> 
+                                            <a href="singlePost.php">Online Homeopathy Website </a> 
                                         </h5>
-                                        <small class="d-block color-main text-uppercase">website design & develoment</small>
+                                      
                                         <div class="text">
-                                            Forex Hub is the fastest growing Best Forex Trading Signals.
+                                        Homeopathy is the alternative form of medicine.
                                         </div>
                                         <div class="tags">
                                             <a href="#">WordPress</a>
@@ -122,13 +139,16 @@
                                             <a href="#">HTML/CSS</a>
                                             <a href="#">Figma</a>
                                         </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 mix design consultation">
                                 <div class="portfolio-card mb-50">
                                     <div class="img">
-                                        <img src="http://mitsafe.com/assets/images/portfolio/short/portshort3.png" alt="">
+                                        <img src="assets/portfolio/portshort4.png" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
@@ -143,6 +163,9 @@
                                             <a href="#">Security</a>
                                             <a href="#">Management</a>
                                             <a href="#">Backup & Recovery</a>
+                                        </div>
+                                        <div class="tags mt-1">
+                                        <a href="#">Read More</a>
                                         </div>
                                     </div>
                                 </div>
