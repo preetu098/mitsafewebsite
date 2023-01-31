@@ -13,10 +13,10 @@ $con = "";
 // } 
 
 define("EMAIL_HOST","smtp.gmail.com");
-define("EMAIL_USERNAME","rjohri21@gmail.com"); 
-define("EMAIL_PASSWORD","jrnemonlkqxxindv");
+define("EMAIL_USERNAME","modernt231@gmail.com"); 
+define("EMAIL_PASSWORD","mdvhbiieuadjpnjr");
 
-define("EMAIL_FROMMAIL","rjohri21@gmail.com");
+define("EMAIL_FROMMAIL","moderntechnologies12@gmail.com");
 define("EMAIL_FROMNAME","MIT SAFE");
 define("RECAPTCHA_SITEKEY","6LcQdS4kAAAAAIvaPOvXtOKUmoUbxrWvF2xznL4f");
 define("RECAPTCHA_SECRETKEY","6LcQdS4kAAAAAKjIUEDVPiXFCvPiyofsoLBHkEHL");
