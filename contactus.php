@@ -33,7 +33,7 @@ if(isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'
      $body=$body."<p><b>Message=</b>".$message."</p>";
 
 
-     sendHtmlMail('moderntechnologies12@gmail.com',  $subject,     $body);
+     sendHtmlMail('rjohri22@gmail.com',  $subject,     $body);
      $sended_mail=true;
 
      
