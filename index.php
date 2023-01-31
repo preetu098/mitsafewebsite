@@ -1,5 +1,9 @@
 <?php include('layout/header.php')?>
-
+<link href="assets/css/testi/style.css" rel="stylesheet"/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+/>
 <!-- <!DOCTYPE html>
 <html lang="en">
 
@@ -240,7 +244,7 @@ Indore</title> -->
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="img">
-                            <img src="assets/img/team4.png" alt="">
+                            <img src="assets/img/team4.png" height="500" width="500" alt="">
                         </div>
                     </div>
                 </div>
@@ -282,13 +286,13 @@ Indore</title> -->
                         <div class="col-lg-5">
                             <div class="title">
                                 <h3 class=" wow fadeInUp slow">“Technology is best when it brings people  together.”</h3>
-                                <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small>
+                                <!-- <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small> -->
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="info">
-                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
-                                <h6 class=" wow fadeInUp slow" style="font-size:20px;">We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
+                                <h6 class=" wow fadeInUp slow" >We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
+                                <h6 class=" wow fadeInUp slow" >We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
                                 <a href="page-about-5.html" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                     <span>more about us</span>
                                 </a>
@@ -386,10 +390,12 @@ Indore</title> -->
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="service-box mb-4 wow fadeInUp" data-wow-delay="0">
+                        <a href="page-services.php">
                             <h5>
-                                <a href="page-services.php">Website Designing & Development</a> 
+                               Website Designing & Development 
                                 <span class="num">01</span>
                             </h5>
+                            </a>
                             <div class="icon">
                             <img src="assets/img/icons/serv_icons/3.png" alt="">
                             </div>
@@ -704,7 +710,91 @@ photography...
 
     
     <!-- ====== start testimonials ====== -->
-    <section class="testimonials section-padding style-1" style="">
+
+    <div id="page" class="site">
+    <div class="container1">
+        <div class="testi">
+            <div class="head">
+                <h3>Testimonials</h3>
+                <p>See</p>
+            </div>
+            <div class="body1 swiper">
+                <ul class="swiper-wrapper">
+                    <li class="swiper-slide">
+                    <div class="wrapper">
+                        <div class="thumbnail">
+                            <img src="assets/testi/1.jpg" alt="">
+                        </div>
+                        <div class="aside">
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis optio vitae rem dolorem vel accusamus tempora est ut fugit excepturi?</p>
+                            <div class="name">
+                                <h4>User1 </h4>
+                                <p>Lorem ipsum dolor sit amet.</p>
+                            </div>
+                        </div>
+                        </div>
+                    </li>
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <div class="thumbnail">
+                                <img src="assets/testi/2.jpg" alt="">
+                            </div>
+                            <div class="aside">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis optio vitae rem dolorem vel accusamus tempora est ut fugit excepturi?</p>
+                                <div class="name">
+                                    <h4>User1 </h4>
+                                    <p>Lorem ipsum dolor sit amet.</p>
+                                </div>
+                            </div>
+                            </div>
+                        </li>
+                        <li class="swiper-slide">
+                            <div class="wrapper">
+                                <div class="thumbnail">
+                                    <img src="assets/testi/3.jpg" alt="">
+                                </div>
+                                <div class="aside">
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis optio vitae rem dolorem vel accusamus tempora est ut fugit excepturi?</p>
+                                    <div class="name">
+                                        <h4>User1 </h4>
+                                        <p>Lorem ipsum dolor sit amet.</p>
+                                    </div>
+                                </div>
+                                </div>
+                            </li>
+                </ul>
+                <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+   </div>
+   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+   <script>
+    const swiper = new Swiper('.swiper', {
+autoHeight:true,
+  loop: true,
+
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+ 
+});
+   </script>
+
+    <!-- <section class="testimonials section-padding style-1" style="">
         <div class="container">
             <div class="section-head mb-60 text-center">
                 <h6 class="color-main text-uppercase wow fadeInUp">testimonials</h6>
@@ -726,68 +816,7 @@ photography...
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-7">
-                        <div class="info wow fadeInUp">
-                            <div class="client_card mb-2" data-wow-delay="0">
-                                <div class="user_img">
-                                    <img src="http://mitsafe.com/assets/images/testimonial/avatar/1.jpg" alt="">
-                                </div>
-                                <div class="inf_content">
-                                    <div class="rate_stars">
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                    </div>
-                                    <h6>
-                                        “A fairly decent company providing services like web development, SEO, digital marketing , etc. Know a few of their clients. Most of them spoke well about the company. However, like any business, there is scope for improvements. Wishing the team best wishes. May them rise above the competition and be best at what they do.  ”
-                                    </h6>
-                                    <p>Monty Moni<span class="text-muted">/  CEO, Keen IT Solution</span></p>
-                                </div>
-                            </div>
-                            <div class="client_card mb-2" data-wow-delay="0.2s">
-                                <div class="user_img">
-                                    <img src="http://mitsafe.com/assets/images/testimonial/avatar/2.jpg" alt="">
-                                </div>
-                                <div class="inf_content">
-                                    <div class="rate_stars">
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                    </div>
-                                    <h6>
-                                        “ Techiesys us a place where you can learn high level digital marketing and professional skills in website design and development online marketing also leadership qualities and team work and good working environment.     ”
-                                    </h6>
-                                    <p> Mike Hotten <span class="text-muted">/ CEO, Brick Consulting</span></p>
-                                </div>
-                            </div>
-                            <div class="client_card" data-wow-delay="0.4s">
-                                <div class="user_img">
-                                    <img src="http://mitsafe.com/assets/images/testimonial/avatar/3.jpg" alt="">
-                                </div>
-                                <div class="inf_content">
-                                    <div class="rate_stars">
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                    </div>
-                                    <h6>
-                                        “I just want to thank you for the excellent job you have done on my website. The service was incredible and responsive. Developers are very supportive also they were treated as the valued customer, Affordable price compared to the others web development company.. Thanku Techiesys.”
-                                    </h6>
-                                    <p>Nancy Lowe<span class="text-muted">/ CEO, Brick Consulting</span></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+        
     <!-- ====== end testimonials ====== -->
 
     <!-- ====== start team ====== -->

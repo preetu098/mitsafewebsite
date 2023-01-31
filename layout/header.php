@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <!-- Metas -->
     <meta charset="utf-8">
@@ -15,7 +17,7 @@ services along with the digital marketing SEO SMO and paid marketing" />
     <!-- Title  -->
     <title>Best website design services Indore | Best Application development | Digital marketing
 Indore</title>
-
+    <link rel="preload" href="assets/css/bootstrap-icons.woff2">
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/fav.png" title="Favicon" sizes="16x16" />
 
@@ -38,6 +40,8 @@ Indore</title>
 
     <!-- ====== global style ====== -->
     <link rel="stylesheet" href="assets/css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+  type="text/javascript"></script>
 </head>
 
 <body>
@@ -54,7 +58,7 @@ Indore</title>
                 <span class="btn sm-butn bg-white py-0 px-2 me-2 fs-10px">
                     <small class="fs-10px">Special</small>
                 </span>
-                <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15">
+                <!-- <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15"> -->
                 <span class="fs-10px op-6">Get </span>
                 <small class="op-10 fs-10px">20% Discount</small>
                 <span class="fs-10px op-6">Get for New Account</span>
@@ -69,7 +73,7 @@ Indore</title>
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent style-5">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-                <img src="./assets/morden-logo.png" alt="logo">
+                <img src="./assets/morden-logo.png" alt="logo" height="50" width="500">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -106,6 +110,7 @@ Indore</title>
                             
                             <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Project</a></li>
                             <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Blog</a></li>
+                            <li><a class="dropdown-item" href="page-career.php" style="font-size:16px!important;">Career</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >
