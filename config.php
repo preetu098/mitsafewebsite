@@ -18,7 +18,7 @@ define("EMAIL_PASSWORD","mdvhbiieuadjpnjr");
 
 define("EMAIL_FROMMAIL","moderntechnologies12@gmail.com");
 define("EMAIL_FROMNAME","MIT SAFE");
-define("RECAPTCHA_SITEKEY","6LcQdS4kAAAAAIvaPOvXtOKUmoUbxrWvF2xznL4f");
-define("RECAPTCHA_SECRETKEY","6LcQdS4kAAAAAKjIUEDVPiXFCvPiyofsoLBHkEHL");
+define("RECAPTCHA_SITEKEY","6LeCyz0kAAAAAEkL8-k7tZ3dzWkJ5oJj_UWPT7oM");
+define("RECAPTCHA_SECRETKEY","6LeCyz0kAAAAAHBpvk8WJDFsXqU35sg11YCTZgHP");
 
 ?>
