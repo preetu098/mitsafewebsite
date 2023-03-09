@@ -54,7 +54,7 @@ if (isset($_POST['btnsubmit'])) {
     $message = $_POST['message'];
 
     $date = date("Y-m-d H:i:s");
-    $sql = "insert into contact(first_name,last_name,email,mobile_number,message,updated_at) values('$first_name','$last_name','$mobile_number','$email','$message','$date')";
+    $sql = "insert into contact(first_name,last_name,email,mobile_number,message,updated_at) values('$first_name','$last_name','$email','$mobile_number','$message','$date')";
 
     if (mysqli_query($connection, $sql)) {
         echo "<script>{
@@ -131,7 +131,7 @@ if (isset($_POST['btnsubmit'])) {
                                 </div>
                                 <div class="col-lg-6">
                                     <div class="form-group mb-20">
-                                        <input type="text" name="email" class="form-control" placeholder="Email Address"
+                                        <input type="email" name="email" class="form-control" placeholder="Email Address"
                                             required>
                                     </div>
                                 </div>
