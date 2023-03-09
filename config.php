@@ -16,7 +16,7 @@ if($host == 'mitsafewebsite.modvent.com'){
 else{ 
 
     $db_server="localhost";
-    $db_name="mitsafewebsite";
+    $db_name="mitsafe";
     $db_username='root';
     $db_password='';
  
