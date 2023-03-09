@@ -44,6 +44,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
     <link rel="stylesheet" href="assets/css/style.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
   type="text/javascript"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -58,11 +59,13 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
         <div class="container">
             <div class="content text-white">
                 
-                    <small class="fs-10px" style="font-size:17px!important">India +91-6265944392</small>
+                    <small class="fs-10px" style="font-size:17px!important"><i class="fa fa-phone" aria-hidden="true"></i> India +91-6265944392</small>
                
                 <!-- <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15"> -->
-                <small class="fs-10px" style="font-size:17px!important"> USA +1-(516) 847-4997</small>
-                <a href="#" class="fs-10px text-decoration-underline ms-2">Register Now</a>
+                <span class="fs-10px op-6" style="color:transparent">Get </span>
+                <small class="op-10 fs-10px" style="color:transparent">20% Discount</small>
+                <small class="fs-10px" style="font-size:17px!important"><i class="fa fa-phone" aria-hidden="true"></i>USA +1-(516) 847-4997</small>
+                <a href="#" class="fs-10px text-decoration-underline ms-2" style="font-size:17px!important"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
             </div>
         </div>
     </div>
