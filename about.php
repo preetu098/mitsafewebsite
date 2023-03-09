@@ -9,23 +9,22 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="info">
-                            <h1>We provide perfect <br> IT Solutions & Technology for any
+                            <h1>Morden Technology delivers high-end IT solutions to
                                 <span>
-                                    Startups
+                                businesses
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
                                     <img src="assets/img/header/head5_pen.png" alt="" class="head-pen">
                                 </span>
                             </h1>
                             <p>
-                                Iteck helps you unify your brand identity by collecting, storing and distributing <br> design
-                                tokens and assets — automatically.
+                            We offer best class web solutions for your business that helps you to succeed in your ventures.
                             </p>
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="main-vid">
-                            <img src="assets/img/vid_banner5.png" alt="">
-                            <a href="https://youtu.be/pGbIOC83-So?t=21" data-lity class="play-icon">
+                            <img src="assets/portfolio/teamwork-meeting-with-business-people_23-2148825936.jpg" alt="">
+                            <a href="https://youtu.be/YLN1Argi7ik" data-lity class="play-icon">
                                 <i class="fas fa-play"></i>
                             </a>
                         </div>
@@ -322,7 +321,7 @@
             <div class="container">
                 <div class="content pb-100 border-1 border-bottom brd-gray">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-3">
                             <div class="number-card style-6">
                                 <h2 class="me-4 color-blue5">
                                    <span class="counter">12</span> +
@@ -332,7 +331,17 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-3">
+                            <div class="number-card style-6">
+                                <h2 class="me-4 color-blue5">
+                                   <span class="counter">12</span> +
+                                </h2>
+                                <div class="text">
+                                    Years <br> of Experience
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3">
                             <div class="number-card style-6">
                                 <h2 class="me-4 color-blue5">
                                    <span class="counter">1565</span> 
@@ -342,7 +351,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-3">
                             <div class="number-card style-6 border-0">
                                 <h2 class="me-4 color-blue5">
                                    <span class="counter">265</span> 
