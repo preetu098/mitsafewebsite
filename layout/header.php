@@ -57,13 +57,11 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
     <div class="top-navbar style-5">
         <div class="container">
             <div class="content text-white">
-                <span class="btn sm-butn bg-white py-0 px-2 me-2 fs-10px">
-                    <small class="fs-10px">Special</small>
-                </span>
+                
+                    <small class="fs-10px" style="font-size:17px!important">India +91-6265944392</small>
+               
                 <!-- <img src="assets/img/icons/nav_icon/imoj_heart.png" alt="" class="icon-15"> -->
-                <span class="fs-10px op-6">Get </span>
-                <small class="op-10 fs-10px">20% Discount</small>
-                <span class="fs-10px op-6">Get for New Account</span>
+                <small class="fs-10px" style="font-size:17px!important"> USA +1-(516) 847-4997</small>
                 <a href="#" class="fs-10px text-decoration-underline ms-2">Register Now</a>
             </div>
         </div>
@@ -90,29 +88,32 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             <a class="nav-link" href="index.php" style="font-size:16px!important;">
                             Homes
                         </a>
-                        <!-- <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="home-it-solutions2.html"> It Solution creative </a></li>
-                            <li><a class="dropdown-item" href="home-app-landing.html"> App Landing </a></li>
-                            <li><a class="dropdown-item" href="home-saas-technology.html"> Saas Technology </a></li>
-                            <li><a class="dropdown-item" href="home-marketing-startup.html"> Marketing Startup </a></li>
-                            <li><a class="dropdown-item" href="home-it-solutions.html"> It Solution </a></li>
-                            <li><a class="dropdown-item" href="home-software-company.html"> Software Company </a></li>
-                            <li><a class="dropdown-item" href="home-digital-agency.html"> Digital Agency </a></li>
-                        </ul> -->
+                      
+                    </li>
+                    <li class="nav-item" >
+                        <a class="nav-link" href="about.php" style="font-size:16px!important;">
+                            About
+                        </a>
+                    </li>
+                    <li class="nav-item" >
+                        <a class="nav-link" href="product.php" style="font-size:16px!important;">
+                            Product
+                        </a>
                     </li>
                     <li class="nav-item dropdown" style="font-size:16px!important;">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false" style="font-size:16px!important;">
-                            pages
+                            Services
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="about.php" style="font-size:16px!important;">About</a></li>
+                            <li><a class="dropdown-item" href="about.php" style="font-size:16px!important;">Website Design/Developement</a></li>
                             <!-- <li><a class="dropdown-item" href="page-product-5.html">Product</a></li> -->
-                            <li><a class="dropdown-item" href="service.php" style="font-size:16px!important;">Services</a></li>
+                            <li><a class="dropdown-item" href="service.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
                             
-                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Project</a></li>
-                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Single Blog</a></li>
-                            <li><a class="dropdown-item" href="page-career.php" style="font-size:16px!important;">Career</a></li>
+                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Digital Marketing</a></li>
+                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">CRM Software</a></li>
+                            <li><a class="dropdown-item" href="page-career.php" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
+                            <li><a class="dropdown-item" href="page-career.php" style="font-size:16px!important;">Game Developement</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >
@@ -134,7 +135,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                     </li>
                     
                 </ul>
-                <div class="nav-side">
+                <!-- <div class="nav-side">
                     <div class="d-flex align-items-center">
                         <span class="nav-item">
                             <a class="nav-link" href="page-contact-5.html" style="font-size:16px!important;">
@@ -146,7 +147,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             <span>Start Free Trial <i class="bi bi-arrow-right ms-1"></i> </span>
                         </a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </nav>
