@@ -65,7 +65,7 @@
 
                               <td>
 
-                                <a href="delete_blog.php?id=<?php echo $row['id'] ?>">Delete </a>&nbsp;
+                                <a href="delete_blog.php?id=<?php echo $row['id'] ?>" style="color:red;">Delete </a>&nbsp;
                                 <a href="edit_blog.php?id=<?php echo $row['id']; ?>">Edit</a>
 
                               </td>
