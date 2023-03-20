@@ -21,8 +21,7 @@
                         <div class="section-head text-center mb-60 style-5">
                             <h2 class="mb-20">Digital <Span>Marketing Services at Mitsafe</span> </h2>
                             <p>
-                            Education and businesses have scaled so far, that keeping track of Digital marketing is one of the most crucial aspects of the modern business world, as it differs significantly from traditional marketing.
-
+                            Digital marketing is one of the most crucial aspects of the modern business world, as it differs significantly from traditional marketing. Every business needs to be present online to compete with contemporary businesses in the digital world.
 
                             </p>
                         </div>
@@ -35,7 +34,7 @@
 
 
         <!-- ====== start about ====== -->
-        <section class="about pt-0 pb-150 style-5" style="margin-top:-10px!important">
+        <section class="about pt-0 pb-150 style-5" style="margin-top:-200px!important">
             <div class="content">
                 <div class="container">
                     <div class="row align-items-center">
@@ -43,7 +42,8 @@
                             <div class="section-head mb-30 style-5">
                                 <h2>Certified <span>Digital Marketer</span> </h2>
                             </div>
-                            <p> Every business needs to be present online to compete with contemporary businesses in the digital world. Mitsafe is a leading digital certified digital marketer that can help you accelerate your business at higher levels.
+                            <p>  Mitsafe is a leading digital certified digital marketer that can help you accelerate your business at higher levels.
+
 </p>
                            
                         </div>
@@ -65,16 +65,15 @@
                         <div class="col-lg-8">
                             <div class="img main-img2">
                                 <img src="assets/img/about/about_s5_2_1.png" alt="">
-                                <img src="https://www.academyfront.com/images/blog/cloud-based-school.png"  alt="" class="img-body">
+                                <img src="assets/digital/dmb.png"  alt="" class="img-body">
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="section-head mb-30 style-5">
-                                <h2>digital marketing services</span> </h2>
+                                <h2>Digital Marketing Services</span> </h2>
                             </div>
                             <p>
-                            School administration software has made Learning management systems easy to do these kinds of things efficiently. However, educational institutions face enormous challenges in handling their schools' day-to-day operations, which is why every school should invest in administration software to maximize efficiency and minimize wasted time and effort. The learning management system has become far easy with ERP. 
-
+                            If you are searching for the best digital marketing services in Indore, Mitsafe is the one spot for all your needs. Mitsafe is leading digital marketing in Indore and provides services across the world. Digital marketing includes many types of marketing such as SEO, SMO, PPC, etc. Mitsafe provides quality SEO services in Indore with many international clients globally. 
 
                             </p>
                             
@@ -87,16 +86,17 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>ERP systems</span> </h2>
+                                <h2>Marketing Agency in India</span> </h2>
                             </div>
                             <p>
-                            ERP is also widely used in companies of all sizes and is increasingly being adopted in small and large businesses that are expanding rapidly. Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. These capabilities are usually built on top of ERP systems.
+                            Mitsafe conduct an in-depth analysis of your company, then develop strategies and finally apply a wide range of marketing tools to achieve optimal results. There are many marketing agency in India but Mitsafe is one that will understand your business closely and provide the best solution to scale your business and help you achieve your goals. 
+
   </p>
                             
                         </div>
                         <div class="col-lg-6 order-0 order-lg-2">
                             <div class="img">
-                                <img src="https://images.projectsgeek.com/2014/08/Enterprise-Resource-Planning-System.png" alt="" class="img-body">
+                                <img src="assets/digital/dm.png" alt="" class="img-body">
                                
                                 
                             </div>
@@ -104,59 +104,9 @@
                     </div>
                 </div>
             </div>
-            <div class="content pb-0 mt-5">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 order-2 order-lg-0">
-                        <div class="img">
-                                <img src="https://dialerp.in/images/progress.png" alt="" class="img-body">
-                               
-                                
-                            </div>
-                           
-                           
-                            
-                        </div>
-                        <div class="col-lg-6 order-0 order-lg-2">
-                        <div class="section-head mb-30 style-5">
-                                <h2> School <span>ERP software</span> </h2>
-                            </div>
-                            <p>
-                            At Mitsafe, we will assess your company or school’s current setting and learn about its strategic requirements and desired outcomes. Our experts serve as your go-to resource for all things related to ERP software implementation. School ERP software will make your job easy and save the extra costs.  
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
 
-            <div class="content pb-0 mt-5">
-                <div class="container">
-                    <div class="row align-items-center">
-                    <div class="col-lg-6 order-0 order-lg-2">
-                    <div class="img">
-                                <img src="https://weblite.in/wp-content/uploads/2019/04/dynamic-website-designer.png" alt="" class="img-body">
-                               
-                                
-                            </div>
-                        </div>
-                        <div class="col-lg-6 order-2 order-lg-0">
-                             
-                            <div class="section-head mb-30 style-5">
-                                <h2> Types <span>of school ER</span> </h2>
-                            </div>
-                            <p>
-                            Our team of developers uses leading-edge frameworks and languages to create robust ERP software tailored to your company's specific requirements. We have the industry's top ERP app developers who build for the web, PC, and mobile. We have many types of school ERP to meet the needs of your business and deliver effective results. 
-
-                            </p>
-                           
-                            
-                        </div>
-                       
-                    </div>
-                  
-
-
-
+            
 
 
 
