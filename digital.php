@@ -1,8 +1,11 @@
-<title>Readymade and Customized CRM Provider | Multipurpose CRM software</title>
-<meta name="keywords" content="Readymade CRM India, CRM, Customer management, Staff Management, Multipurpose CRM software, CRM provider Indore, Customized CRM">
+<title>Readymade ERP & Student Management software provider India & Indore</title>
+<meta name="keywords" content="Readymade school ERP, types of school ERP, Learning management system, school erp software, School management system">
 
-<meta name="description" content="To keep customers connected and satisfied with your business, you need to maintain customer data. Mitsafe provides the best readymade CRM in India and Indore. We give flexible solutions to handle all your customer data through staff Management, Multipurpose CRM software.">
+<meta name="description" content="Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. Our experts at Mitsafe serve as your go-to resource for all things related to ERP software implementation">
 <?php include('layout/header.php');?>
+
+
+
     <!--Contents-->
     <main class="services-page style-5">
 
@@ -16,38 +19,39 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="section-head text-center mb-60 style-5">
-                            <h2 class="mb-20"> Customer Management <span>System </span> </h2>
+                            <h2 class="mb-20">Digital <Span>Marketing Services at Mitsafe</span> </h2>
                             <p>
-                            Customer is a priority in any business, and keeping them happy with your product and services is important. And to keep them connected and satisfied with your business, you need to maintain customer data. Customer data plays a vital role in businesses evaluating the nature of their customers. However, maintaining the data is a tedious and time-consuming task. 
+                            Education and businesses have scaled so far, that keeping track of Digital marketing is one of the most crucial aspects of the modern business world, as it differs significantly from traditional marketing.
+
 
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-           
+            
         </section>
         <!-- ====== end services ====== -->
 
 
         <!-- ====== start about ====== -->
-        <section class="about pt-0 pb-150 style-5" style="margin-top:-100px!important">
+        <section class="about pt-0 pb-150 style-5" style="margin-top:-10px!important">
             <div class="content">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6 order-2 order-lg-0">
+                        <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2> customer <span>management</span> </h2>
+                                <h2>Certified <span>Digital Marketer</span> </h2>
                             </div>
-                            <p>An effective customer management system is a must to avoid the chances of errors and mistakes that usually happens while maintaining customer data manually. Plus, it’s hard to make some business decisions when the data is recorded across different places, and collecting the data from different places and making proper use of it is tough. It also affects decision-making and leads to a wrong selection of choices that could be a reason for business failure.
+                            <p> Every business needs to be present online to compete with contemporary businesses in the digital world. Mitsafe is a leading digital certified digital marketer that can help you accelerate your business at higher levels.
 </p>
-                       
+                           
                         </div>
-                        <div class="col-lg-6 order-0 order-lg-2">
+                        <div class="col-lg-8 order-0 order-lg-2">
                             <div class="img main-img1">
                                 <!-- <img src="" alt="" class="sm-circle">
                                 <img src="" alt="" class="img-body"> -->
-                                <img src="https://www.sunsmart.co.in/wp-content/uploads/product/crm-software.png" alt="" class="img-body" >
+                                <img src="assets/android/ab.gif" alt="" class="img-body" >
                                
                                 <!-- <img src="assets/img/about/about_s5_1_5.png" alt="" class="lg-circle">  -->
                             </div>
@@ -58,21 +62,21 @@
             <div class="content">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6">
+                        <div class="col-lg-8">
                             <div class="img main-img2">
                                 <img src="assets/img/about/about_s5_2_1.png" alt="">
-                                <img src="https://www.oneclickitsolution.com/wp-content/uploads/2020/08/CRM-Transparent-banner.png"  alt="" class="img-body">
+                                <img src="https://www.academyfront.com/images/blog/cloud-based-school.png"  alt="" class="img-body">
                             </div>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-4">
                             <div class="section-head mb-30 style-5">
-                                <h2>customized <span>CRM </span> </h2>
+                                <h2>digital marketing services</span> </h2>
                             </div>
                             <p>
-                            The growth of every business depends upon its decision and to take a timely and effective decision for your company, you need customized CRM that meets the needs of your business. 
+                            School administration software has made Learning management systems easy to do these kinds of things efficiently. However, educational institutions face enormous challenges in handling their schools' day-to-day operations, which is why every school should invest in administration software to maximize efficiency and minimize wasted time and effort. The learning management system has become far easy with ERP. 
+
 
                             </p>
-                            
                             
                         </div>
                     </div>
@@ -83,17 +87,16 @@
                     <div class="row align-items-center">
                         <div class="col-lg-6 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>Readymade <span>CRM in India</span> </h2>
+                                <h2>ERP systems</span> </h2>
                             </div>
                             <p>
-                            Mitsafe provides the best readymade CRM in India and Indore. We give flexible solutions to handle all your customer data through staff Management, Multipurpose CRM software. You don't need any prior experience with a CRM to work on it. We design easy-to-use and simple-to-understand CRM. You can access your CRM data from anywhere and from any device you have. All you need is an app to access your data.
-                            </p>
-                           
+                            ERP is also widely used in companies of all sizes and is increasingly being adopted in small and large businesses that are expanding rapidly. Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. These capabilities are usually built on top of ERP systems.
+  </p>
                             
                         </div>
                         <div class="col-lg-6 order-0 order-lg-2">
                             <div class="img">
-                                <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/09/crm-advan-img.png" alt="" class="img-body">
+                                <img src="https://images.projectsgeek.com/2014/08/Enterprise-Resource-Planning-System.png" alt="" class="img-body">
                                
                                 
                             </div>
@@ -116,73 +119,64 @@
                         </div>
                         <div class="col-lg-6 order-0 order-lg-2">
                         <div class="section-head mb-30 style-5">
-                                <h2>Why Choose<span> Mitsafe?</span></h2>
+                                <h2> School <span>ERP software</span> </h2>
                             </div>
                             <p>
-                            Depending on your business, Mitsafe customizes the CRM system according to your business size and needs also, we have readymade CRM which can fulfill your needs and is easy to deploy. 
-
-
+                            At Mitsafe, we will assess your company or school’s current setting and learn about its strategic requirements and desired outcomes. Our experts serve as your go-to resource for all things related to ERP software implementation. School ERP software will make your job easy and save the extra costs.  
                             </p>
-                            <div class="line-links">
-                                <ul class="list-icon">
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        Experienced team of developers
-
-                                        </h6>
-                                    </li>
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        Provide excellent services
-                                        </h6>
-                                    </li>
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        Customize as per your needs
-                                        </h6>
-                                    </li>
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        Uses the latest technology to help scale your business fast
-
-                                        </h6>
-                                    </li>
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        Our CRM is affordable and quick to deploy
-
-                                        </h6>
-                                    </li>
-                                    <li>
-                                        <span class="icon">
-                                            <i class="bi bi-check2"></i>
-                                        </span>
-                                        <h6>
-                                        We give free trial 
-
-                                        </h6>
-                                    </li>
-</ul>
-</div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="content pb-0 mt-5">
+                <div class="container">
+                    <div class="row align-items-center">
+                    <div class="col-lg-6 order-0 order-lg-2">
+                    <div class="img">
+                                <img src="https://weblite.in/wp-content/uploads/2019/04/dynamic-website-designer.png" alt="" class="img-body">
+                               
+                                
+                            </div>
+                        </div>
+                        <div class="col-lg-6 order-2 order-lg-0">
+                             
+                            <div class="section-head mb-30 style-5">
+                                <h2> Types <span>of school ER</span> </h2>
+                            </div>
+                            <p>
+                            Our team of developers uses leading-edge frameworks and languages to create robust ERP software tailored to your company's specific requirements. We have the industry's top ERP app developers who build for the web, PC, and mobile. We have many types of school ERP to meet the needs of your business and deliver effective results. 
+
+                            </p>
+                           
+                            
+                        </div>
+                       
+                    </div>
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </section>
         <!-- ====== end about ====== -->
 

@@ -1,3 +1,10 @@
+<title>Readymade and Customized CRM Provider | Multipurpose CRM software</title>
+<meta name="keywords" content="Readymade CRM India, CRM, Customer management, Staff Management, Multipurpose CRM software, CRM provider Indore, Customized CRM">
+
+<meta name="description" content="To keep customers connected and satisfied with your business, you need to maintain customer data. Mitsafe provides the best readymade CRM in India and Indore. We give flexible solutions to handle all your customer data through staff Management, Multipurpose CRM software.">
+
+
+
 <?php include('layout/header.php');?>
     <!-- ====== start inner-header style-5 ====== -->
    
@@ -65,7 +72,12 @@
         <section class="careers-images pb-100">
             <div class="section-head text-center mb-60 style-5">
                 <h2 class="mb-20"> UI/UX APPLICATION </span> </h2>
-                <div class="text color-666">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, natus laudantium quisquam quaerat delectus dolore non neque ipsa ex mollitia.</div>
+                <div class="text color-666">
+                <p>    
+                Design is the primary thing to see on a website. There has been a rise in the number of developers and designers focusing on user interface and user experience design, or frontend development.
+</p>
+
+            </div>
                 <button class="btn bg-blue5 sm-butn text-white hover-darkBlue mt-4 rounded-pill">
                     <span>See All Positions</span>
                 </button>

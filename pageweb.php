@@ -1,4 +1,11 @@
+<title>Web design & Web development company Indore | Dynamic Website India</title>
+<meta name="keywords" content="Website designing services indore, website development In India, Website development USA, Dynamic website development, PHP Website, Responsive website development, Wordpress website India">
+
+<meta name="description" content="A well-constructed and well-aligned website is capable of drawing more and more users to it. No one wants to spend time on a website that loads slowly and looks confusing. Therefore along with a good and fast website, you need a skilled developer who can build the website of your dreams. Mitsafe helps you to achieve those website goals.">
 <?php include('layout/header.php');?>
+
+
+
     <!--Contents-->
     <main class="services-page style-5">
 

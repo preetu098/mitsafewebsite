@@ -84,14 +84,13 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2> Modern<span> Technology </span> </h2>
+                                <h2> About<span> Us </span> </h2>
                             </div>
                             <p>
-                                Morden Technology delivers high-end IT solutions to businesses. We offer best class web solutions for your business that helps you to succeed in your ventures. 
+                            Established in 2016, Mitsafe is a leading web-designing company and digital agency in Indore. We provide our services to UK, USA, and Australian clients. With our extensive experience of 7+ years, we have completed almost 500+ projects. We are glad to mention that we have 920K happy clients that we have built through our quality services. We help our clients speed up the way their businesses work. We work with many different technologies, such as Shopify, Js, PHP, and so on.
+
                             </p>
-                            <div class="line-links">
-                                <p>Our team members have worked with various successful startups and large-scale enterprise to produce best IT solutions for various industries. We develop and present new ideas, concepts, solutions and approaches for client success. We always focus on critical information and leave out irrelevant or unnecessary details and maintains a high level of professionalism. We believe in dedicated involvement to provide post-implementation support.</p>
-                            </div>
+                           
                         </div>
                         <div class="col-lg-6">
                             <div class="img">
@@ -103,6 +102,62 @@
             </div>
             <img src="assets/img/about/about_s6_bubbles.png" alt="" class="bubbles rotate-center">
         </section>
+
+
+        <section class="about section-padding style-5 style-6" style="margin-top:-50px!important">
+            <div class="content border-0 p-0">
+                <div class="container">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-lg-4 order-2 order-lg-0">
+                         
+                        <div class="img">
+                                <img src="https://cybercraftinc.com/wp-content/uploads/2023/01/building-mobile-1.webp" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                        <div class="section-head mb-30 style-5">
+                                <h2> Our<span> Team </span> </h2>
+                            </div>
+                            <p>
+                            Mitsafe includes a talented team of professionals who closely communicates and understand clients’ needs and provide the best solution according to their business needs. Our team of professional have worked with new small startups and international businesses to build cutting-edge IT services for various sectors. We create and offer fresh ideas, concepts, approaches, and solutions to our clients so that they can scale their businesses to higher levels
+
+                            </p>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="assets/img/about/about_s6_bubbles.png" alt="" class="bubbles rotate-center">
+        </section>
+
+        <section class="about section-padding style-5 style-6" style="margin-top:-40px!important;">
+            <div class="content border-0 p-0">
+                <div class="container">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-lg-4 order-2 order-lg-0">
+                            <div class="section-head mb-30 style-5">
+                                <h2> Happy <span>Clients </span> </h2>
+                            </div>
+                            <p>
+                            We are dedicated to our clients and believe in providing the best support to our customers. 
+Mitsafe believes in the professionalism and with our quality services, we have catered to almost 15,000+ companies in their respective businesses. 
+
+
+                            </p>
+                           
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="img">
+                                <img src="https://www.citisoft.com/hubfs/Blog_images/clients.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <img src="assets/img/about/about_s6_bubbles.png" alt="" class="bubbles rotate-center">
+        </section>
+
+
         <!-- ====== end about ====== -->
 
         <!-- ====== start choose us ====== -->
@@ -117,49 +172,13 @@
                     <div class="col-lg-4">
                         <div class="info">
                             <div class="section-head mb-30 style-5">
-                                <h2> Our <span> Services </span> </h2>
+                                <h2> Our <span> Motto</span> </h2>
                             </div>
                             <div class="text mb-50 fs-12px color-666">
-                                We are Leading International Consulting Specializingin Business & Financial Investment.
+                            Mitsafe is based in Indore and provides our services across the globe including UK, USA, and Australia. We aim to give perfect IT solutions to businesses of all levels from start-ups to big organizations. In the competitive world of business, we provide flexible solutions to the business to meet the needs of the constantly changing environment. We want to cater to our clients with the latest technology so that they get the maximum advantage. We are here to help you reach your goals. In addition to that,   we aim to be the best company for IT solutions. 
+
                             </div>
-                            <ul>
-                                <li class="d-flex mb-40">
-                                    <small class="icon-50 me-4 flex-shrink-0">
-                                        <img src="https://blogscrolls.com/wp-content/uploads/2022/09/PHP-Development-Technology.png" alt="">
-                                    </small>
-                                    <div class="inf">
-                                        <h5>web development</h5>
-                                        <p class="fs-12px color-666 mt-2">
-                                            A website forms the core of any business in this digital World. 
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="d-flex mb-40">
-                                    <small class="icon-50 me-4 flex-shrink-0">
-                                        <img src="https://5.imimg.com/data5/IU/OM/MY-47539933/android-app-development-500x500.png" alt="">
-                                    </small>
-                                    <div class="inf">
-                                        <h5>App Development</h5>
-                                        <p class="fs-12px color-666 mt-2">
-                                            MIT’s web application development addresses a wide range of business needs.
-                                        </p>
-                                    </div>
-                                </li>
-                                <li class="d-flex">
-                                    <small class="icon-50 me-4 flex-shrink-0">
-                                        <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
-                                    </small>
-                                    <div class="inf">
-                                        <h5>Digital Marketing</h5>
-                                        <p class="fs-12px color-666 mt-2">
-                                            Make your business, products & services prominently visible whenever your prospects search on Google. 
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
-                            <a href="page-services-5.html" class="btn rounded-pill blue5-3Dbutn hover-blue2 sm-butn fw-bold mt-60 px-5">
-                                <span>See More </span>
-                            </a>
+                            
                         </div>
                     </div>
                 </div>
@@ -168,27 +187,58 @@
         </section>
         <!-- ====== end choose us ====== -->
 
-        <section class="ccontainer" style="margin-top:100px ;">
+        <section class="ccontainer" style="margin-top:-30px!important;">
             <div class="row">
                 <div class="col-md-3">
                    
                         <iframe src="https://embed.lottiefiles.com/animation/114201" style="height: 400px;width:400px"></iframe>
-                    
+                            <ul style="margin-left:100px!important">
+                            <li class="d-flex mb-40">
+                            <small class="icon-50 me-4 flex-shrink-0">
+                                <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
+                            </small>
+                            <div class="inf">
+                                <h5>UI/UX Design services</h5>
+                                <p class="fs-12px color-666 mt-2">
+                                With constant innovation and fresh approaches, design has never been better.  There has been a rise in the number of coders and designers focusing on user interface and user experience design, or frontend development.
+                                </p>
+                            </div>
+                        </li>
+                        
+                        </ul>
+
                 </div>
                 <div class="col-md-3">
                     <iframe src="https://embed.lottiefiles.com/animation/78081" style="height: 400px;width:400px"></iframe>
+                        <ul>
+                        <li class="d-flex mb-40">
+                            <small class="icon-50 me-4 flex-shrink-0">
+                                <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
+                            </small>
+                            <div class="inf">
+                                <h5>Application Android and IOS development services</h5>
+                                <p class="fs-12px color-666 mt-2">
+                                    Making all the way for a concept to App Store, brand in the hands of your audience through custom mobile apps.
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
                 <div class="col-md-2"></div>
                 <div class="col-md-4">
+                <div class="section-head mb-30 style-5">
+                                <h2> Our <span> Services</span> </h2>
+                            </div>
                     <ul>
                         <li class="d-flex mb-40">
                             <small class="icon-50 me-4 flex-shrink-0">
                                 <img src="https://blogscrolls.com/wp-content/uploads/2022/09/PHP-Development-Technology.png" alt="">
                             </small>
                             <div class="inf">
-                                <h5>Branding</h5>
+                                <h5>Web Development services</h5>
                                 <p class="fs-12px color-666 mt-2">
-                                    Our Brand Strategy gives you a major edge to expanding the competitive market and helps differentiate your product or service from others.
+                                   
+                                    E-commerce websites designed by us are a perfect package and optimized for all your needs like Payment Gateways.
                                 </p>
                             </div>
                         </li>
@@ -197,7 +247,8 @@
                                 <img src="https://5.imimg.com/data5/IU/OM/MY-47539933/android-app-development-500x500.png" alt="">
                             </small>
                             <div class="inf">
-                                <h5>Online Advertising</h5>
+                                <h5>Paid Marketing services
+</h5>
                                 <p class="fs-12px color-666 mt-2">
                                     Our Strategy helps you in increasing your business with our digital marketing solutions and getting more customers online..
                                 </p>
@@ -208,9 +259,9 @@
                                 <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
                             </small>
                             <div class="inf">
-                                <h5>E-commerce solutions</h5>
+                                <h5>Digital Marketing services</h5>
                                 <p class="fs-12px color-666 mt-2">
-                                    E-commerce websites designed by us are a perfect package and optimized for all your needs like Payment Gateways.
+                                Our Brand Strategy gives you a major edge to expanding the competitive market and helps differentiate your product or service from others.
                                 </p>
                             </div>
                         </li>
@@ -219,12 +270,27 @@
                                 <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
                             </small>
                             <div class="inf">
-                                <h5>Mobile app development</h5>
+                                <h5>(Enterprise resource planning) ERP services</h5>
                                 <p class="fs-12px color-666 mt-2">
-                                    Making all the way for a concept to App Store, brand in the hands of your audience through custom mobile apps.
+                                ERP is widely used in companies of all sizes and is increasingly being adopted in small and large businesses that are expanding rapidly
                                 </p>
                             </div>
                         </li>
+                        <li class="d-flex mb-40">
+                            <small class="icon-50 me-4 flex-shrink-0">
+                                <img src="https://freesvg.org/img/Digital-Marketing.png" alt="">
+                            </small>
+                            <div class="inf">
+                                <h5>Content writing services
+</h5>
+                                <p class="fs-12px color-666 mt-2">
+                                This is why content writing is crucial. A customer will always look for more details about your company or brand before purchasing something or signing up for a service.  
+
+                                </p>
+                            </div>
+                        </li>
+                     
+                       
                         
                     </ul>
                 </div>

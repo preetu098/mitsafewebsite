@@ -111,12 +111,13 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
                             <li><a class="dropdown-item" href="pageweb.php" style="font-size:16px!important;">Website Design/Developement</a></li>
                             <!-- <li><a class="dropdown-item" href="page-product-5.html">Product</a></li> -->
-                            <li><a class="dropdown-item" href="service.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
+                            <li><a class="dropdown-item" href="android.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
                             
-                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Digital Marketing</a></li>
+                            <li><a class="dropdown-item" href="digital.php" style="font-size:16px!important;">Digital Marketing</a></li>
                             <li><a class="dropdown-item" href="Page-crm.php" style="font-size:16px!important;">CRM Software</a></li>
                             <li><a class="dropdown-item" href="page_uiux.php" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
                             <li><a class="dropdown-item" href="pagegame.php" style="font-size:16px!important;">Game Developement</a></li>
+                            <li><a class="dropdown-item" href="schoolErp.php" style="font-size:16px!important;">School ERP</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >
