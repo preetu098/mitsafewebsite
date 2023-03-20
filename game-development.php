@@ -1,10 +1,9 @@
-<title>Readymade ERP & Student Management software provider India & Indore</title>
-<meta name="keywords" content="Readymade school ERP, types of school ERP, Learning management system, school erp software, School management system">
+<title>Aviator game development | White label Aviator game | Aviator casino game
+</title>
+<meta name="keywords" content="Readymade aviator casino game, aviator game development, readymade white label aviator game, casino game development company in india">
 
-<meta name="description" content="Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. Our experts at Mitsafe serve as your go-to resource for all things related to ERP software implementation">
+<meta name="description" content="">
 <?php include('layout/header.php');?>
-
-
 
     <!--Contents-->
     <main class="services-page style-5">
@@ -19,39 +18,151 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="section-head text-center mb-60 style-5">
-                            <h2 class="mb-20">Digital <Span>Marketing Services at Mitsafe</span> </h2>
+                            <h1 class="mb-20">Game development services</span> </h1>
                             <p>
-                            Digital marketing is one of the most crucial aspects of the modern business world, as it differs significantly from traditional marketing. Every business needs to be present online to compete with contemporary businesses in the digital world.
+                            The gaming industry in India and globally increasing day by day especially after the pandemic. Therefore, the demand for game development is also increasing with the gaming industry trend. Creating a fun game may be difficult, one needs special coding and designing knowledge to create one. Mitsafe is a game development company in Indore that creates user-friendly games that can engage the user. We provide our game development services in India and globally. 
 
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            
+            <div class="content">
+                <div class="services-slider position-relative style-6">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://www.pngmart.com/files/5/Games-PNG-Image.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Content Strategy</h5>
+                                        <div class="text">
+                                            You can provide the answers that your potential customers are trying to
+                                            find, so you can become the industry.
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://pngimg.com/uploads/pubg/small/pubg_PNG45.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Google/FB Ads</h5>
+                                        <div class="text">
+                                            Get more website traffic, more customers & more online visibility with
+                                            powerful SEO services.
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://www.bitmoji.com/img/43ddc956.bfg-screen1.cache.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Email Marketing</h5>
+                                        <div class="text">
+                                            Your website has to impress your visitors within just a few seconds
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://www.kindpng.com/picc/m/40-403346_video-games-png-transparent-png.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Social Media</h5>
+                                        <div class="text">
+                                            Get more website traffic, more customers for your social chanel
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://www.kindpng.com/picc/m/784-7840769_super-mario-bros-wheel-super-mario-bros-png.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Website Design and Development</h5>
+                                        <div class="text">
+                                            Your website has to impress your visitors within just a few seconds. If it
+                                            runs slow, if it feels outdated
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://www.bitmoji.com/img/43ddc956.bfg-screen1.cache.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>TVC/ Viral Clip</h5>
+                                        <div class="text">
+                                            Optimized your website on google result with PPC Marketing
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="https://alephindia.in/images/bis/video-games.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>PPC Ads</h5>
+                                        <div class="text">
+                                            Optimized your website on google result with PPC Marketing
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <!-- ====== end services ====== -->
 
 
         <!-- ====== start about ====== -->
-        <section class="about pt-0 pb-150 style-5" style="margin-top:-200px!important">
+        <section class="about pt-0 pb-150 style-5" style="margin-top:-400px!important">
             <div class="content">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-4 order-2 order-lg-0">
+                        <div class="col-lg-6 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>Certified <span>Digital Marketer</span> </h2>
+                                <h2> Game <span> development Service in india</span> </h2>
                             </div>
-                            <p>  Mitsafe is a leading digital certified digital marketer that can help you accelerate your business at higher levels.
-
-</p>
-                           
+                            <p>A good game gives a player continuous challenges, and short and long-term goals to keep a player hooked on a game with excitement. Each stage of the game should give a player some learning and objective to play the next stage. Flexibility is another important feature of a well designed game, there should be different ways to accomplish the goal and those goals should be fun at the same time challenging.</p>
+                            <div class="line-links">
+                                <!-- <ul class="list-icon">
+                                    <li>
+                                        <span class="icon">
+                                            <i class="bi bi-check2"></i>
+                                        </span>
+                                        <h6>
+                                            Content management system
+                                        </h6>
+                                    </li>
+                                   
+                                    
+                                </ul> -->
+                            </div>
                         </div>
-                        <div class="col-lg-8 order-0 order-lg-2">
+                        <div class="col-lg-6 order-0 order-lg-2">
                             <div class="img main-img1">
                                 <!-- <img src="" alt="" class="sm-circle">
                                 <img src="" alt="" class="img-body"> -->
-                                <img src="assets/android/ab.gif" alt="" class="img-body" >
+                                <img src="assets/game/g1.gif" alt="" class="img-body" >
                                
                                 <!-- <img src="assets/img/about/about_s5_1_5.png" alt="" class="lg-circle">  -->
                             </div>
@@ -59,44 +170,80 @@
                     </div>
                 </div>
             </div>
-            <div class="content">
+            <div class="content" style="margin-top:-200px!important">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-8">
                             <div class="img main-img2">
                                 <img src="assets/img/about/about_s5_2_1.png" alt="">
-                                <img src="assets/digital/dmb.png"  alt="" class="img-body">
+                                <img src="assets/game/g3.gif"  alt="" class="img-body">
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="section-head mb-30 style-5">
-                                <h2>Digital Marketing Services</span> </h2>
+                                <h2>Video <span>Games</span> </h2>
                             </div>
                             <p>
-                            If you are searching for the best digital marketing services in Indore, Mitsafe is the one spot for all your needs. Mitsafe is leading digital marketing in Indore and provides services across the world. Digital marketing includes many types of marketing such as SEO, SMO, PPC, etc. Mitsafe provides quality SEO services in Indore with many international clients globally. 
-
+                            Our team closely communicates with the clients and understands their needs in the game they want. In turn, we also give our valuable suggestions that can make a game even more exciting. Our creative  team is passionate for video games and with their analytics minds they create a visually appealing and interesting sound tracking game that keeps user engaged with it for longer hours
                             </p>
-                            
+                           
+                      
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="content pb-0">
+            <div class="content pb-0" style="margin-top:-200px!important">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>Marketing Agency in India</span> </h2>
+                                <h2>Benefits of a well designed game
+</span> </h2>
                             </div>
-                            <p>
-                            Mitsafe conduct an in-depth analysis of your company, then develop strategies and finally apply a wide range of marketing tools to achieve optimal results. There are many marketing agency in India but Mitsafe is one that will understand your business closely and provide the best solution to scale your business and help you achieve your goals. 
+                        
+                            <ul class="list-icon">
+                                <li>
+                                    <span class="icon">
+                                        <i class="bi bi-check2"></i>
+                                    </span>
+                                    <h6>
+                                    Improves user’s analytics and thinking
 
-  </p>
+                                    </h6>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <i class="bi bi-check2"></i>
+                                    </span>
+                                    <h6>
+                                    Improves decision making
+                                    </h6>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <i class="bi bi-check2"></i>
+                                    </span>
+                                    <h6>
+                                    Boosts motivation
+
+                                    </h6>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <i class="bi bi-check2"></i>
+                                    </span>
+                                    <h6>
+                                    Improves leadership and strategy
+
+
+                                    </h6>
+                                </li>
+                            </ul>
                             
                         </div>
                         <div class="col-lg-6 order-0 order-lg-2">
                             <div class="img">
-                                <img src="assets/digital/dm.png" alt="" class="img-body">
+                                <img src="assets/game/g2.gif" alt="" class="img-body">
                                
                                 
                             </div>
@@ -105,114 +252,10 @@
                 </div>
             </div>
            
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            </div>
         </section>
         <!-- ====== end about ====== -->
 
-
-        <!-- ====== start testimonials ====== -->
-        <section class="testimonials section-padding bg-gray5 style-5">
-            <div class="container">
-                <div class="section-head text-center mb-60 style-5">
-                    <h2 class="mb-20"> Clients <span> Reviews </span> </h2>
-                    <p>ALL TYPES OF IT SOLUTION @ MODERN TECHNOLOGY FOR BUILDING THE MODERN. </p>
-                </div>
-            </div>
-            <div class="content">
-                <div class="testimonial-slider position-relative style-5">
-                    <div class="swiper-container pb-70">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <a href="#" class="testi-card style-5">
-                                    <div class="stars">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="text" style="font-size: 12px;">
-                                        “Techiesys us a place where you can learn high level digital marketing and professional skills in website design and development online marketing also leadership qualities and team work and good working environment.”
-                                    </div>
-                                    <div class="user mt-40 text-center">
-                                        <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="http://mitsafe.com/assets/images/testimonial/avatar/2.jpg" alt="">
-                                        </div>
-                                        <h6>Mike Hotten</h6>
-                                        <small>CEO, Brick Consulting</small>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="testi-card style-5">
-                                    <div class="stars">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="text" style="font-size: 12px;">
-                                        “  A fairly decent company providing services like web development, SEO, digital marketing , etc. Know a few of their clients. Most of them spoke well about the company. However, like any business, there is scope for improvements.”
-                                    </div>
-                                    <div class="user mt-40 text-center">
-                                        <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="http://mitsafe.com/assets/images/testimonial/avatar/1.jpg" alt="">
-                                        </div>
-                                        <h6> Monty Moni</h6>
-                                        <small>CEO, Keen IT Solution</small>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="swiper-slide">
-                                <a href="#" class="testi-card style-5">
-                                    <div class="stars">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                    <div class="text" style="font-size: 12px;">
-                                        “I just want to thank you for the excellent job you have done on my website. The service was incredible and responsive. Developers are very supportive also they were treated as the valued customer, Affordable price compared to the others web development.”
-                                    </div>
-                                    <div class="user mt-40 text-center">
-                                        <div class="icon-80 rounded-circle img-cover overflow-hidden m-auto">
-                                            <img src="http://mitsafe.com/assets/images/testimonial/avatar/3.jpg" alt="">
-                                        </div>
-                                        <h6>Nancy Lowe</h6>
-                                        <small>CEO, Brick Consulting </small>
-                                    </div>
-                                </a>
-                            </div>
-                           
-                        </div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </section>
         <!-- ====== end testimonials ====== -->
 
 <!-- 

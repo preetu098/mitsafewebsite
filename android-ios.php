@@ -1,16 +1,103 @@
-<title>Readymade ERP & Student Management software provider India & Indore</title>
-<meta name="keywords" content="Readymade school ERP, types of school ERP, Learning management system, school erp software, School management system">
+<title>Android application development in Indore | iOS application development In India
+Description
+</title>
+<meta name="keywords" content="Android app development, iOS app development, Best application developer in indore, Best application developer in India, iOS app developer indore, Hybrid app, react native app, flutter app developer in Indore">
 
-<meta name="description" content="Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. Our experts at Mitsafe serve as your go-to resource for all things related to ERP software implementation">
+<meta name="description" content="Mitsafe focuses on developing mobile platforms such as Android and iOS as well as cross-platform apps using frameworks such as Flutter and React Native. We have the finest smartphone app developers on our team, they can take care of the coding.">
+
+
+
 <?php include('layout/header.php');?>
-
-
 
     <!--Contents-->
     <main class="services-page style-5">
 
 
-    
+        <!-- ====== start features ====== -->
+        <section class="features section-padding pt-50 style-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="section-head text-center mb-60 style-5">
+                            <h1 class="mb-20">Android & iOS application development
+ </span> </h1>
+                            <p>
+                            Android application development in Indore | iOS application development In India
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/ap1.png" style="height: 200px;width:200px" alt="">
+                                </div>
+                             
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/ap2.png" style="height: 200px;width:200px" alt="">
+                                </div>
+                               
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/ap3.png" style="height: 200px;width:200px" alt="">
+                                </div>
+                               
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/app-dev-2.png" style="height: 200px;width:200px" alt="">
+                                </div>
+                                
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/md1.png" style="height: 200px;width:200px" alt="">
+                                </div>
+                               
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/mobile-app.png" style="height: 200px;width:200px"  alt="">
+                                </div>
+                               
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card mb-30 mb-lg-0 style-5">
+                                <div class="icon">
+                                    <img src="assets/android/m1.png" style="height: 200px;width:200px"  alt="">
+                                </div>
+                               
+                            </a>
+                        </div>
+                        <div class="col-lg-3">
+                            <a href="#" class="features-card style-5">
+                                <div class="icon">
+                                    <img src="assets/android/m2.png" style="height: 200px;width:200px"  alt="">
+                                </div>
+                                
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- ====== end features ====== -->
 
         <!-- ====== start services ====== -->
@@ -19,39 +106,139 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="section-head text-center mb-60 style-5">
-                            <h2 class="mb-20"> School ERP <span>& Student Management Software</span> </h2>
+                            <h2 class="mb-20"> App  <span> Development </span> </h2>
                             <p>
-                            Education and businesses have scaled so far, that keeping track of everything in papers has become a tedious task. Today, we live in a digital world where recording keeping on paper has been eliminated. 
+                            A growing number of businesses know the importance of investing in mobile app development as a means of expanding their customer base and generating more revenue. Business application development is receiving a lot of attention from companies because of its vast potential in the modern economy. However, designing and developing mobile software from scratch is not a simple task.
+
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
-            
+            <div class="content">
+                <div class="services-slider position-relative style-6">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/16.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Content Strategy</h5>
+                                        <div class="text">
+                                            You can provide the answers that your potential customers are trying to
+                                            find, so you can become the industry.
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/15.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Google/FB Ads</h5>
+                                        <div class="text">
+                                            Get more website traffic, more customers & more online visibility with
+                                            powerful SEO services.
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/14.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Email Marketing</h5>
+                                        <div class="text">
+                                            Your website has to impress your visitors within just a few seconds
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/17.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Social Media</h5>
+                                        <div class="text">
+                                            Get more website traffic, more customers for your social chanel
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/18.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>Website Design and Development</h5>
+                                        <div class="text">
+                                            Your website has to impress your visitors within just a few seconds. If it
+                                            runs slow, if it feels outdated
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/19.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>TVC/ Viral Clip</h5>
+                                        <div class="text">
+                                            Optimized your website on google result with PPC Marketing
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#" class="service-card style-6">
+                                    <div class="icon">
+                                        <img src="assets/img/icons/serv_icons/20.png" alt="">
+                                    </div>
+                                    <div class="info">
+                                        <h5>PPC Ads</h5>
+                                        <div class="text">
+                                            Optimized your website on google result with PPC Marketing
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <!-- ====== end services ====== -->
 
 
         <!-- ====== start about ====== -->
-        <section class="about pt-0 pb-150 style-5" >
+        <section class="about pt-0 pb-150 style-5" style="margin-top:-300px!important">
             <div class="content">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>School  <span>management</span> </h2>
+                                <h2> Android IOS<span> development</span> </h2>
                             </div>
-                            <p>Today’s  School management system faces several challenges to keep up with the daily operations and executions. Several tasks like data management, fee collection, student results, managing timetables, attendance, and other daily chores are tough to perform manually. Managing these task manually requires time, effort, energy, and labor which means additional cost. 
-
+                            <p>Mitsafe is the best application developer in Indore and we focus on developing mobile platforms such as Android app development and iOS app development as well as cross-platform apps using frameworks such as Flutter app and React Native app. We have the finest smartphone app developers on our team, they can take care of the coding.
 </p>
-                           
                         </div>
                         <div class="col-lg-8 order-0 order-lg-2">
                             <div class="img main-img1">
                                 <!-- <img src="" alt="" class="sm-circle">
                                 <img src="" alt="" class="img-body"> -->
-                                <img src="https://www.thepmitsolution.com/images/school-management-system-3.png" alt="" class="img-body" >
-                               
+                                <img src="assets/android/Real-Estate.png" alt="" class="img-body" style="height: 300px;">
+                                <img src="assets/android/logo.jpg" alt="" class="lg-circle" >
                                 <!-- <img src="assets/img/about/about_s5_1_5.png" alt="" class="lg-circle">  -->
                             </div>
                         </div>
@@ -64,19 +251,18 @@
                         <div class="col-lg-8">
                             <div class="img main-img2">
                                 <img src="assets/img/about/about_s5_2_1.png" alt="">
-                                <img src="https://www.academyfront.com/images/blog/cloud-based-school.png"  alt="" class="img-body">
+                                <img src="assets/android/37135-android-logo.gif" alt="" class="img-body">
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="section-head mb-30 style-5">
-                                <h2>Learning  <span>management</span> </h2>
+                                <h2> Android App<span> Development </span> </h2>
                             </div>
                             <p>
-                            School administration software has made Learning management systems easy to do these kinds of things efficiently. However, educational institutions face enormous challenges in handling their schools' day-to-day operations, which is why every school should invest in administration software to maximize efficiency and minimize wasted time and effort. The learning management system has become far easy with ERP. 
-
-
+                            Mobile app developers are well-trained in all aspects of Android app development. This is important for making Android apps that are both easy to use and scalable. Our Android experts have extensive knowledge about Java concurrency and how source control works. Our team closely coordinates with the customers to give desired outcomes.
                             </p>
-                            
+                           
+                           
                         </div>
                     </div>
                 </div>
@@ -84,98 +270,31 @@
             <div class="content pb-0">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-lg-6 order-2 order-lg-0">
+                        <div class="col-lg-4 order-2 order-lg-0">
                             <div class="section-head mb-30 style-5">
-                                <h2>ERP systems</span> </h2>
+                                <h2>App <span> Development </span> </h2>
                             </div>
                             <p>
-                            ERP is also widely used in companies of all sizes and is increasingly being adopted in small and large businesses that are expanding rapidly. Streamlining business processes and managing and optimizing data are now more important than ever due to the complexity of the global economy and contemporary customer demands. These capabilities are usually built on top of ERP systems.
-  </p>
-                            
-                        </div>
-                        <div class="col-lg-6 order-0 order-lg-2">
-                            <div class="img">
-                                <img src="https://images.projectsgeek.com/2014/08/Enterprise-Resource-Planning-System.png" alt="" class="img-body">
-                               
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="content pb-0 mt-5">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 order-2 order-lg-0">
-                        <div class="img">
-                                <img src="https://dialerp.in/images/progress.png" alt="" class="img-body">
-                               
-                                
-                            </div>
-                           
-                           
-                            
-                        </div>
-                        <div class="col-lg-6 order-0 order-lg-2">
-                        <div class="section-head mb-30 style-5">
-                                <h2> School <span>ERP software</span> </h2>
-                            </div>
-                            <p>
-                            At Mitsafe, we will assess your company or school’s current setting and learn about its strategic requirements and desired outcomes. Our experts serve as your go-to resource for all things related to ERP software implementation. School ERP software will make your job easy and save the extra costs.  
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                              
 
-            <div class="content pb-0 mt-5">
-                <div class="container">
-                    <div class="row align-items-center">
-                    <div class="col-lg-6 order-0 order-lg-2">
-                    <div class="img">
-                                <img src="https://weblite.in/wp-content/uploads/2019/04/dynamic-website-designer.png" alt="" class="img-body">
-                               
-                                
-                            </div>
+We save you both time and money by building the features you require to achieve scalability. Once you've decided on the look and feel of your program, we'll make any and all modifications you request. Moreover, you will never have to interact with a programmer or agent.
+
+                            </p>
+                          
+                          
                         </div>
-                        <div class="col-lg-6 order-2 order-lg-0">
+                        <div class="col-lg-8 order-0 order-lg-2">
+                            <div class="img main-img3">
+                                <img src="assets/img/about/about_s5_3_1.png" alt="" class="img-body">
+                                <img src="https://media4.giphy.com/media/1zR9sWQ1R4m2UCKliP/giphy.gif" alt="">
+                                <img src="assets/img/about/about_s5_3_3.png" alt="">
+                                <img src="assets/img/about/about_s5_3_4.png" alt="">
                              
-                            <div class="section-head mb-30 style-5">
-                                <h2> Types <span>of school ER</span> </h2>
                             </div>
-                            <p>
-                            Our team of developers uses leading-edge frameworks and languages to create robust ERP software tailored to your company's specific requirements. We have the industry's top ERP app developers who build for the web, PC, and mobile. We have many types of school ERP to meet the needs of your business and deliver effective results. 
-
-                            </p>
-                           
-                            
                         </div>
-                       
                     </div>
-                  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                </div>
+            </div>
         </section>
         <!-- ====== end about ====== -->
 
