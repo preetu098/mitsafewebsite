@@ -1,4 +1,8 @@
-<?php include('layout/header.php');?>
+<?php include('layout/header.php');
+
+include('connection.php');
+$blog_info = mysqli_fetch_array(mysqli_query($connection, "SELECT * FROM blog where id='".$_GET['blog_id']."'"));
+?>
     <main class="single-project pt-50 style-5">
 
 
@@ -55,7 +59,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-7">
                                 <div class="img text-center">
-                                    <img src="assets/img/single_project/2mobs.png" alt="" class="main-img">
+                                    <img src="images/blog/<?php echo $blog_info['img'];?>" alt="" class="main-img">
                                     <img src="assets/img/single_project/bubbls.png" alt="" class="bubbls">
                                     <img src="assets/img/single_project/circle.png" alt="" class="circle">
                                 </div>
