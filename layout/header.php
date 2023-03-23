@@ -109,14 +109,15 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             Services
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="pageweb.php" style="font-size:16px!important;">Website Design/Developement</a></li>
+                            <li><a class="dropdown-item" href="website-design.php" style="font-size:16px!important;">Website Design/Developement</a></li>
                             <!-- <li><a class="dropdown-item" href="page-product-5.html">Product</a></li> -->
-                            <li><a class="dropdown-item" href="service.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
+                            <li><a class="dropdown-item" href="android-ios.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
                             
-                            <li><a class="dropdown-item" href="singlePost.php" style="font-size:16px!important;">Digital Marketing</a></li>
-                            <li><a class="dropdown-item" href="Page-crm.php" style="font-size:16px!important;">CRM Software</a></li>
-                            <li><a class="dropdown-item" href="page_uiux.php" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
-                            <li><a class="dropdown-item" href="pagegame.php" style="font-size:16px!important;">Game Developement</a></li>
+                            <li><a class="dropdown-item" href="digital-marketing.php" style="font-size:16px!important;">Digital Marketing</a></li>
+                            <li><a class="dropdown-item" href="crm-software-providor.php" style="font-size:16px!important;">CRM Software</a></li>
+                            <li><a class="dropdown-item" href="ui-ux-design.php" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
+                            <li><a class="dropdown-item" href="game-development.php" style="font-size:16px!important;">Game Developement</a></li>
+                            <li><a class="dropdown-item" href="school-erp.php" style="font-size:16px!important;">School ERP</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >

@@ -1,3 +1,7 @@
+<title>Readymade and Customized CRM Provider | Multipurpose CRM software</title>
+<meta name="keywords" content="Readymade CRM India, CRM, Customer management, Staff Management, Multipurpose CRM software, CRM provider Indore, Customized CRM">
+
+<meta name="description" content="To keep customers connected and satisfied with your business, you need to maintain customer data. Mitsafe provides the best readymade CRM in India and Indore. We give flexible solutions to handle all your customer data through staff Management, Multipurpose CRM software.">
 <?php include('layout/header.php');?>
     <!--Contents-->
     <main class="services-page style-5">
@@ -12,7 +16,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="section-head text-center mb-60 style-5">
-                            <h2 class="mb-20"> Customer Management <span>System </span> </h2>
+                            <h1 class="mb-20">CRM Software provider</span> </h1>
                             <p>
                             Customer is a priority in any business, and keeping them happy with your product and services is important. And to keep them connected and satisfied with your business, you need to maintain customer data. Customer data plays a vital role in businesses evaluating the nature of their customers. However, maintaining the data is a tedious and time-consuming task. 
 
