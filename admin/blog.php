@@ -1,6 +1,11 @@
 
     <!--start header -->
-    <?php include('header.php'); ?>
+    <?php
+    session_start();
+
+    error_reporting(E_ALL & ~E_NOTICE);
+    if ($_SESSION['ID'] > 0) {
+    include('header.php'); ?>
     <!--end header -->
     <!--start page wrapper -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/fontawesome.min.css" integrity="sha512-cHxvm20nkjOUySu7jdwiUxgGy11vuVPE9YeK89geLMLMMEOcKFyS2i+8wo0FOwyQO/bL8Bvq1KMsqK4bbOsPnA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -89,7 +94,11 @@
     <!--end overlay-->
     <!--Start Back To Top Button--> <a href="javaScript:;" class="back-to-top"><i class='bx bxs-up-arrow-alt'></i></a>
     <!--End Back To Top Button-->
-    <?php include('footer.php'); ?>
+    <?php include('footer.php'); 
+    }else {
+      echo "<script>window.location='index.php' </script>";
+  }
+    ?>
   </div>
   <!--end wrapper-->
   
