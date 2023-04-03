@@ -72,7 +72,7 @@
                     </div>
                     <ul>
                                     <li>
-                                        <a href="crm-software-providor">CRM & Software </a>
+                                        <a href="crm-software-provider">CRM & Software </a>
                                     </li>
                                     <li>
                                         <a href="ui-ux-design">UI/UX Design </a>

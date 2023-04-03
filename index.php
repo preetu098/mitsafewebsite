@@ -1,3 +1,10 @@
+<title>Best Website Designer | Digital marketing | Android / IOS Development India</title>
+<meta name="keywords" content="Best website design services in Indore, Best android developer" />
+<meta name="description" content="We are here to provide the best website designing services Indore since 10 years with the
+support of various types of technology we can provide android and iOS application development
+services along with the digital marketing SEO SMO and paid marketing" />
+
+
 <?php include('layout/header.php')?>
 <link href="assets/css/testi/style.css" rel="stylesheet"/>
 <link

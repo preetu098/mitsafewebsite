@@ -88,7 +88,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                     <li class="nav-item dropdown" style="font-size:16px!important;">
                         <!-- <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false"> -->
-                            <a class="nav-link" href="/" style="font-size:16px!important;">
+                            <a class="nav-link" href="" style="font-size:16px!important;">
                             Homes
                         </a>
                       
@@ -114,7 +114,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             <li><a class="dropdown-item" href="android-ios" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
                             
                             <li><a class="dropdown-item" href="digital-marketing" style="font-size:16px!important;">Digital Marketing</a></li>
-                            <li><a class="dropdown-item" href="crm-software-providor" style="font-size:16px!important;">CRM Software</a></li>
+                            <li><a class="dropdown-item" href="crm-software-provider" style="font-size:16px!important;">CRM Software</a></li>
                             <li><a class="dropdown-item" href="ui-ux-design" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
                             <li><a class="dropdown-item" href="game-development" style="font-size:16px!important;">Game Developement</a></li>
                             <li><a class="dropdown-item" href="school-erp" style="font-size:16px!important;">School ERP</a></li>
