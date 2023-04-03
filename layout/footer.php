@@ -57,24 +57,22 @@
                                 </h6>
                                 <ul>
                                     <li>
-                                        <a href="Page-crm.php">CRM & Software </a>
+                                        <a href="crm-software-providor">CRM & Software </a>
                                     </li>
                                     <li>
-                                        <a href="page_uiux.php">UI/UX Design </a>
+                                        <a href="ui-ux-design">UI/UX Design </a>
                                     </li>
                                     <li>
-                                        <a href="page_erp.php">ERP </a>
+                                        <a href="school-erp">ERP </a>
                                     </li>
                                     
                                      <li>
-                                        <a href="pageweb.php">Website Development </a>
+                                        <a href="website-design">Website Development </a>
                                     </li>
                                     <li>
-                                        <a href="pagegame.php">Game Development </a>
+                                        <a href="game-development">Game Development </a>
                                     </li>
-                                    <li>
-                                        <a href="pagelms.php">LMS </a>
-                                    </li>
+                                  
                                     
                                     
                                     

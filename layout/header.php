@@ -98,11 +98,11 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             About
                         </a>
                     </li>
-                    <li class="nav-item" >
+                    <!-- <li class="nav-item" >
                         <a class="nav-link" href="product" style="font-size:16px!important;">
                             Product
                         </a>
-                    </li>
+                    </li> -->
                     <li class="nav-item dropdown" style="font-size:16px!important;">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false" style="font-size:16px!important;">
