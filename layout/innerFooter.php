@@ -72,23 +72,23 @@
                     </div>
                     <ul>
                                     <li>
-                                        <a href="Page-crm.php">CRM & Software </a>
+                                        <a href="crm-software-providor">CRM & Software </a>
                                     </li>
                                     <li>
-                                        <a href="page_uiux.php">UI/UX Design </a>
+                                        <a href="ui-ux-design">UI/UX Design </a>
                                     </li>
+                                    <li>
+                                        <a href="school-erp">ERP </a>
+                                    </li>
+                                    
                                      <li>
-                                        <a href="page_erp.php">ERP </a>
+                                        <a href="website-design">Website Development </a>
                                     </li>
                                     <li>
-                                        <a href="pageweb.php">Website Development </a>
+                                        <a href="game-development">Game Development </a>
                                     </li>
-                                    <li>
-                                        <a href="pagegame.php">Game Development </a>
-                                    </li>
-                                    <li>
-                                        <a href="pagelms.php">LMS </a>
-                                    </li>
+                                  
+                                    
                                     
                                     
                                 </ul>
@@ -101,16 +101,16 @@
                     </div>
                     <ul>
                                     <li>
-                                        <a href="pageTerms.php">Terms & Conditions</a>
+                                        <a href="pageTerms">Terms & Conditions</a>
                                     </li>
                                     <li>
-                                        <a href="">Privacy Policy </a>
+                                        <a href="pageprivacy">Privacy Policy </a>
                                     </li>
                                     <li>
-                                        <a href="pageRefund.php">Refund </a>
+                                        <a href="pageRefund">Refund </a>
                                     </li>
                                     <li>
-                                        <a href="pageshopingpolicy.php">Shopping Policy </a>
+                                        <a href="pageshopingpolicy">Shopping Policy </a>
                                     </li>
                                    
                                     

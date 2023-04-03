@@ -1,5 +1,5 @@
 <?php include('layout/header.php');
-include('connection.php');
+include('config.php');
 
 
 

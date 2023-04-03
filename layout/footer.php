@@ -88,16 +88,16 @@
                                 </h6>
                                 <ul>
                                     <li>
-                                        <a href="pageTerms.php">Terms & Conditions</a>
+                                        <a href="pageTerms">Terms & Conditions</a>
                                     </li>
                                     <li>
-                                        <a href="pageprivacy.php">Privacy Policy </a>
+                                        <a href="pageprivacy">Privacy Policy </a>
                                     </li>
                                     <li>
-                                        <a href="pageRefund.php">Refund </a>
+                                        <a href="pageRefund">Refund </a>
                                     </li>
                                     <li>
-                                        <a href="pageshopingpolicy.php">Shopping Policy </a>
+                                        <a href="pageshopingpolicy">Shopping Policy </a>
                                     </li>
                                    
                                     
