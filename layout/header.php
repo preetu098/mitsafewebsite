@@ -89,7 +89,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                         <!-- <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false"> -->
                             <a class="nav-link" href="/" style="font-size:16px!important;">
-                            Homes
+                            Home
                         </a>
                       
                     </li>
