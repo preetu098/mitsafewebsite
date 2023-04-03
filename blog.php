@@ -1,5 +1,5 @@
 <?php include('layout/header.php');
-include('config.php');
+include_once('config.php');
 
 
 
