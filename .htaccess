@@ -1,3 +1,0 @@
-RewriteCond %{about} !-d
-RewriteCond %{about}\.php -f
-RewriteRule ^(.*)$ $1.php [NC,L] 
