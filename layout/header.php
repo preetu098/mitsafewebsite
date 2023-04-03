@@ -88,18 +88,18 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                     <li class="nav-item dropdown" style="font-size:16px!important;">
                         <!-- <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown1" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false"> -->
-                            <a class="nav-link" href="index.php" style="font-size:16px!important;">
+                            <a class="nav-link" href="/" style="font-size:16px!important;">
                             Homes
                         </a>
                       
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link" href="about.php" style="font-size:16px!important;">
+                        <a class="nav-link" href="about" style="font-size:16px!important;">
                             About
                         </a>
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link" href="product.php" style="font-size:16px!important;">
+                        <a class="nav-link" href="product" style="font-size:16px!important;">
                             Product
                         </a>
                     </li>
@@ -109,31 +109,31 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                             Services
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="website-design.php" style="font-size:16px!important;">Website Design/Developement</a></li>
+                            <li><a class="dropdown-item" href="website-design" style="font-size:16px!important;">Website Design/Developement</a></li>
                             <!-- <li><a class="dropdown-item" href="page-product-5.html">Product</a></li> -->
-                            <li><a class="dropdown-item" href="android-ios.php" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
+                            <li><a class="dropdown-item" href="android-ios" style="font-size:16px!important;">Application Android/IOS Developement</a></li>
                             
-                            <li><a class="dropdown-item" href="digital-marketing.php" style="font-size:16px!important;">Digital Marketing</a></li>
-                            <li><a class="dropdown-item" href="crm-software-providor.php" style="font-size:16px!important;">CRM Software</a></li>
-                            <li><a class="dropdown-item" href="ui-ux-design.php" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
-                            <li><a class="dropdown-item" href="game-development.php" style="font-size:16px!important;">Game Developement</a></li>
-                            <li><a class="dropdown-item" href="school-erp.php" style="font-size:16px!important;">School ERP</a></li>
+                            <li><a class="dropdown-item" href="digital-marketing" style="font-size:16px!important;">Digital Marketing</a></li>
+                            <li><a class="dropdown-item" href="crm-software-providor" style="font-size:16px!important;">CRM Software</a></li>
+                            <li><a class="dropdown-item" href="ui-ux-design" style="font-size:16px!important;">Graphic Design UX/UI</a></li>
+                            <li><a class="dropdown-item" href="game-development" style="font-size:16px!important;">Game Developement</a></li>
+                            <li><a class="dropdown-item" href="school-erp" style="font-size:16px!important;">School ERP</a></li>
                         </ul>
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link" href="portfolio.php" style="font-size:16px!important;">
+                        <a class="nav-link" href="portfolio" style="font-size:16px!important;">
                             portfolio
                         </a>
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link" href="blog.php" style="font-size:16px!important;">
+                        <a class="nav-link" href="blog" style="font-size:16px!important;">
                             blog
                             <small
                                 class="fs-10px icon-20 rounded-pill bg-blue5 text-white fw-bold px-3 ms-2 d-inline-flex justify-content-center align-items-center">3</small>
                         </a>
                     </li>
                     <li class="nav-item" >
-                        <a class="nav-link" href="contactus.php" style="font-size:16px!important;">
+                        <a class="nav-link" href="contactus" style="font-size:16px!important;">
                             contact us
                         </a>
                     </li>
