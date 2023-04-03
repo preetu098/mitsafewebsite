@@ -1,7 +1,9 @@
 <?php
 
 session_start();
-    unset($_SESSION["ID"]);
-   
-    header("Location:index.php");
+// print_r($_SESSION);
+// exit();
+unset($_SESSION["ID"]);
+
+header("Location:index.php");
 ?>

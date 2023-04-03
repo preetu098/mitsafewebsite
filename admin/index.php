@@ -1,32 +1,3 @@
-<?php
-
-
-if (isset($_POST['login'])) {
-	session_start();
-	include '../connection.php';
-	$sql = mysqli_query($connection, "SELECT * FROM admin where email='" . $_POST['email'] . "' and password='" . $_POST['password'] . "'");
-	$row = mysqli_fetch_array($sql);
-
-	if (is_array($row)) {
-
-		header("Location: dashboard.php");
-	} else {
-		?>
-		<div class="alert alert-danger border-0 bg-danger alert-dismissible fade show py-2">
-			<div class="d-flex align-items-center">
-				<div class="font-35 text-white"><i class='bx bxs-message-square-x'></i>
-				</div>
-				<div class="ms-3">
-					<h6 class="mb-0 text-white">Invalid Email or Password</h6>
-					<div class="text-white">Please enter correct email and password!</div>
-				</div>
-			</div>
-			<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-		</div>
-		<?php
-	}
-}
-?>
 <!doctype html>
 <html lang="en">
 
@@ -68,7 +39,7 @@ if (isset($_POST['login'])) {
 								<div class="border p-4 rounded">
 
 									<div class="form-body">
-										<form class="row g-3" method="POST">
+										<form class="row g-3" action="adlogin.php" method="POST">
 											<div class="col-12">
 												<label for="inputEmailAddress" class="form-label">Email Address</label>
 												<input type="email" name="email" class="form-control"
