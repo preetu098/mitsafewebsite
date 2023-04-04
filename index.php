@@ -616,7 +616,7 @@ photography...
                             <div class="swiper-slide">
                                 <div class="portfolio-card">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (7).png" alt="">
+                                        <img src="assets/img/portfolio/Screenshot (7).jpg" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
