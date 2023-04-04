@@ -373,7 +373,7 @@ Indore</title> -->
                         </div>
                     </div>
                 </div>
-                <img src="assets/img/about/num_shap.png" alt="" class="about_shap">
+                <img src="assets/img/about/num_shap.jpg" alt="" class="about_shap">
             </div>
         </div>
     </section>
@@ -658,7 +658,7 @@ photography...
                             <div class="swiper-slide">
                                 <div class="portfolio-card">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (9).png" alt="">
+                                        <img src="assets/img/portfolio/Screenshot (9).jpg" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
@@ -679,7 +679,7 @@ photography...
                             <div class="swiper-slide">
                                 <div class="portfolio-card">
                                     <div class="img">
-                                        <img src="assets/img/portfolio/Screenshot (10).png" alt="">
+                                        <img src="assets/img/portfolio/Screenshot (10).jpg" alt="">
                                     </div>
                                     <div class="info">
                                         <h5>
@@ -1035,7 +1035,7 @@ autoHeight:true,
                                         <h6><a href="page-single-post-5.html">How To Become Web Developer</a></h6>
                                         <div class="auther">
                                             <span>
-                                                <img class="auther-img" src="assets/img/testimonials/user2.jpeg" alt="">
+                                                <img class="auther-img" src="assets/img/testimonials/user2.jpg" alt="">
                                                 <small><a href="#">By Moussa</a></small>
                                             </span>
                                             <span>
