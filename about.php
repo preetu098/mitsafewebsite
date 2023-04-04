@@ -9,7 +9,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="info">
-                            <h1>Morden Technology delivers high-end IT solutions to
+                            <h1>Modern Technology delivers high-end IT solutions to
                                 <span>
                                 businesses
                                     <img src="assets/img/header/head5_line.png" alt="" class="head-line">
