@@ -881,7 +881,7 @@ autoHeight:true,
                 </div>
                 <div class="team_box wow fadeInUp" data-wow-delay="0.4s">
                     <div class="avatar" style="height:250px;width:250px">
-                        <img src="assets/sir.jpeg" alt="">
+                        <img src="assets/sir.jpg" alt="">
                     </div>
                     <div class="info">
                         <h6><a href="#">Devender Rathore</a></h6>
