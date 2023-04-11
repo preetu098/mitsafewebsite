@@ -1,5 +1,5 @@
 <?php
-require_once("config.php");
+require_once("connection.php");
 require_once("pagination.class.php");
 $perPage = new PerPage();
 $sql = "SELECT * FROM blog ORDER BY id DESC";
