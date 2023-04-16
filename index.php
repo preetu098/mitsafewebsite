@@ -11,213 +11,6 @@ services along with the digital marketing SEO SMO and paid marketing" />
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
 />
-<!-- <!DOCTYPE html>
-<html lang="en">
-
-<head> -->
-    <!-- Metas -->
-    <!-- <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="keywords" content="Best website design services in Indore, Best android developer" />
-    <meta name="description" content="We are here to provide the best website designing services Indore since 10 years with the
-support of various types of technology we can provide android and iOS application development
-services along with the digital marketing SEO SMO and paid marketing" />
-    <meta name="author" content="modern technology" /> -->
-
-    <!-- Title  -->
-    <!-- <title>Best website design services Indore | Best Application development | Digital marketing
-Indore</title> -->
-
-    <!-- Favicon -->
-    <!-- <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16" /> -->
-
-    <!-- ====== bootstrap icons cdn ====== -->
-    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css"> -->
-
-    <!-- bootstrap 5 -->
-    <!-- <link rel="stylesheet" href="assets/css/lib/bootstrap.min.css"> -->
-
-    <!-- ====== font family ====== -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
-
-    <link rel="stylesheet" href="assets/css/lib/all.min.css" />
-    <link rel="stylesheet" href="assets/css/lib/animate.css" />
-    <link rel="stylesheet" href="assets/css/lib/jquery.fancybox.css" />
-    <link rel="stylesheet" href="assets/css/lib/lity.css" />
-    <link rel="stylesheet" href="assets/css/lib/swiper.min.css" /> -->
-    <!-- ====== global style ====== -->
-    <!-- <link rel="stylesheet" href="assets/css/style.css" />
-</head>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-<script>
-	$(document).ready(function(){
-		setTimeout(() => {
-            $("#myModal").modal('show');
-        }, 5000);
-	});
-</script>
-<body> -->
-
-    <!-- ====== start loading page ====== -->
-    <!-- <div id="preloader">
-    </div> -->
-    <!-- ====== end loading page ====== -->
-
-
-    <!-- ====== start top navbar ====== -->
-    <!-- <div class="top-navbar style-1">
-        <div class="container">
-            <div class="content">
-                <div class="row align-items-center">
-                    <div class="col-lg-8">
-                        <div class="top-links">
-                            <div class="text text-white">
-                               
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="r-side">
-                            <div class="socail-icons">
-                                <a href="#">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fab fa-facebook-f"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fab fa-linkedin-in"></i>
-                                </a>
-                                <a href="#">
-                                    <i class="fab fa-instagram"></i>
-                                </a>
-                            </div>
-                            <div class="dropdown">
-                                <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
-                                    data-bs-toggle="dropdown" aria-expanded="false">
-                                    <img class="me-1" src="assets/img/lang.png" alt=""> English
-                                </a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <li><a class="dropdown-item" href="#">French</a></li>
-                                    <li><a class="dropdown-item" href="#">Arabic</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- ====== end top navbar ====== -->
-
-    <!--<div class="m-4" >-->
-    <!--    <div id="myModal" class="modal fade" tabindex="-1" >-->
-    <!--        <div class="modal-dialog" >-->
-    <!--            <div class="modal-content"style="width: 800px!important;margin-left:-150px;margin-top:200px" >-->
-    <!--                <div class="modal-header" style="background-color:blue">-->
-    <!--                    <h5 class="modal-title text-white">Modern Technology</h5>-->
-    <!--                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>-->
-    <!--                </div>-->
-                    
-    <!--                <div class="modal-body" style="background-color:blue">-->
-                       
-    <!--                    <div class="row">-->
-    <!--                        <div class="col-lg-6">-->
-    <!--                            <img src="https://www.transparentpng.com/thumb/technology/technology-simple-17.png" alt="">-->
-    <!--                        </div>-->
-    <!--                        <div class="col-lg-6">-->
-    <!--                            <p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint ab saepe assumenda deserunt maxime laudantium harum delectus numquam ex earum quae libero minima corrupti, perferendis dicta molestiae excepturi beatae nisi.</p>-->
-    <!--                        </div>-->
-    <!--                    </div>-->
-                       
-    <!--                </div>-->
-
-
-    <!--                <div class="modal-footer" style="background-color:blue">-->
-    <!--                    <button type="button" class="btn btn-warning" data-bs-dismiss="modal">OK</button>-->
-                        <!-- <button type="button" class="btn btn-primary">Confirm</button> -->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-    <!--</div>-->
-
-    <!-- ====== start navbar ====== -->
-    <!-- <nav class="navbar navbar-expand-lg navbar-light style-1">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="http://mitsafe.com/assets/images/morden-logo.png" alt="" style="height: 60px;width:200px">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.php">
-                            home
-                        </a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            pages
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
-                            <li><a class="dropdown-item" href="about.php">about</a></li>
-                            <li><a class="dropdown-item" href="page-product-5.html">product</a></li>
-                            <li><a class="dropdown-item" href="service.php">services</a></li>
-                            <li><a class="dropdown-item" href="page-shop-5.html">shop</a></li>
-                            <li><a class="dropdown-item" href="page-single-project-5.html">single project</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                         <a class="nav-link" href="portfolio.php">
-                            portfolio
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="page-blog-5.html">
-                            blog
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contactus.php">
-                            contact
-                        </a>
-                    </li>
-                </ul>
-                <div class="nav-side">
-                    <div class="hotline pe-4">
-                        <div class="icon me-3">
-                            <i class="bi bi-telephone"></i>
-                        </div>
-                        <div class="cont">
-                            
-                            <h6>+91-6265944392</h6>
-                        </div>
-                    </div>
-                    <div class="qoute-nav ps-4">
-                        <a href="#" class="search-icon me-3">
-                            <i class="bi bi-search"></i>
-                        </a>
-                       
-                        <a href="page-contact-5.html" class="btn sm-butn butn-gard border-0 text-white">
-                            <span>Free Quote</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </nav> -->
-    <!-- ====== end navbar ====== -->
 
 
     <!-- ====== start header ====== -->
@@ -251,7 +44,7 @@ Indore</title> -->
                     </div>
                     <div class="col-lg-5 offset-lg-1">
                         <div class="img">
-                            <img src="assets/img/team4.png" height="500" width="500" alt="">
+                            <img src="assets/img/team4.png" height="450" width="500" alt="">
                         </div>
                     </div>
                 </div>
@@ -293,14 +86,15 @@ Indore</title> -->
                         <div class="col-lg-5">
                             <div class="title">
                                 <h3 class=" wow fadeInUp slow">“Technology is best when it brings people  together.”</h3>
+                                <h6 class=" wow fadeInUp slow text-white" >We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6> 
                                 <!-- <small class=" wow fadeInUp slow fw-bold">Patricia Cross</small> -->
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="info">
                                 <h6 class=" wow fadeInUp slow" >We are one of the most trusted & experienced Web Design & Web Development Company in Indore we are also Google partner digital agency. We have 7+ years’ experienced professional team from designing a simple website to robust web application development, crafting a digital campaign & SEO.</h6>
-                                <h6 class=" wow fadeInUp slow" >We are the perfect web design company in Indore, India. Currently, we are serving domestic and international customers of all sizes of business.We enable the brands & corporates to look good online using their websites so that the website can welcome its customers and give a pleasant user experience across the devices.</h6>    
-                                <a href="page-about-5.html" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
+                                  
+                                <a href="about.php" class="btn btn-outline-light mt-5 sm-butn wow fadeInUp slow">
                                     <span>more about us</span>
                                 </a>
                             </div>
@@ -609,7 +403,7 @@ photography...
                     </div>
                 </div>
             </div>
-            <div class="content wow fadeIn slow mt-5">
+            <div class="content wow fadeIn slow">
                 <div class="portfolio-slider">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
@@ -702,10 +496,10 @@ photography...
                     </div>
 
                     <!-- ====== slider pagination ====== -->
-                    <div class="swiper-pagination" ></div>
+                    <div class="swiper-pagination" style="margin-top:-100px!important"></div>
 
                     <!-- ====== slider navigation ====== -->
-                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-next" ></div>
                     <div class="swiper-button-prev"></div>
                 </div>
             </div>

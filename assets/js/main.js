@@ -205,8 +205,8 @@ $( function() {
 // ------------ swiper sliders -----------
 $(document).ready(function() {
     var swiper = new Swiper('.portfolio-slider .swiper-container', {
-        slidesPerView: 3,
-        spaceBetween: 30,
+         slidesPerView: 3,
+         spaceBetween: 30,
         speed: 1000,
         pagination: {
             el: ".portfolio-slider .swiper-pagination"

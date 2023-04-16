@@ -65,7 +65,9 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
                 <span class="fs-10px op-6" style="color:transparent">Get </span>
                 <small class="op-10 fs-10px" style="color:transparent">20% Discount</small>
                 <small class="fs-10px" style="font-size:17px!important"><i class="fa fa-phone" aria-hidden="true"></i>USA +1-(516) 847-4997</small>
-                <a href="#" class="fs-10px text-decoration-underline ms-2" style="font-size:17px!important"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                <a href="https://wa.me/6265944392" class="fs-10px text-decoration-underline ms-2" style="font-size:17px!important"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+
+                
             </div>
         </div>
     </div>
@@ -75,7 +77,7 @@ $blogdetail=getPageBlogDetail($pdo,basename($_SERVER['PHP_SELF']));
     <!-- ====== start navbar ====== -->
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent style-5">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="index">
                 <img src="./assets/morden-logo.png" alt="logo" height="50" width="500">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

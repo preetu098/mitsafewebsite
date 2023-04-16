@@ -298,7 +298,7 @@ Mitsafe believes in the professionalism and with our quality services, we have c
             </div>
         </section>
         <!-- ====== start clients ====== -->
-        <section class="clients section-padding style-5">
+        <!-- <section class="clients section-padding style-5">
             <div class="section-head text-center mb-40 style-5">
                 <h2 class="mb-20"> Trusted By Thoudsands <span> Business </span> </h2>
                 <p>More than 15,000 companies trust and choose Iteck</p>
@@ -378,7 +378,7 @@ Mitsafe believes in the professionalism and with our quality services, we have c
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- ====== end clients ====== -->
 
 
@@ -390,7 +390,7 @@ Mitsafe believes in the professionalism and with our quality services, we have c
                         <div class="col-lg-3">
                             <div class="number-card style-6">
                                 <h2 class="me-4 color-blue5">
-                                   <span class="counter">12</span> +
+                                   <span class="counter">7</span> +
                                 </h2>
                                 <div class="text">
                                     Years <br> of Experience
@@ -400,27 +400,27 @@ Mitsafe believes in the professionalism and with our quality services, we have c
                         <div class="col-lg-3">
                             <div class="number-card style-6">
                                 <h2 class="me-4 color-blue5">
-                                   <span class="counter">12</span> +
+                                   <span class="counter">500+</span>
                                 </h2>
                                 <div class="text">
-                                    Years <br> of Experience
+                                    PROJECT <br> COMPLETED
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="number-card style-6">
                                 <h2 class="me-4 color-blue5">
-                                   <span class="counter">1565</span> 
+                                   <span class="counter">35</span>+ 
                                 </h2>
                                 <div class="text">
-                                    Projects <br> completed
+                                    35 + <br> PROJESSIONALS
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-3">
                             <div class="number-card style-6 border-0">
                                 <h2 class="me-4 color-blue5">
-                                   <span class="counter">265</span> 
+                                   <span class="counter">920K</span> 
                                 </h2>
                                 <div class="text">
                                     Satisfied clients on <br> 24 countries
@@ -435,7 +435,7 @@ Mitsafe believes in the professionalism and with our quality services, we have c
 
 
         <!-- ====== start Culture ====== -->
-        <section class="culture section-padding style-5">
+        <!-- <section class="culture section-padding style-5">
             <div class="section-head text-center mb-70 style-5">
                 <h2 class="mb-20"> Discovery Our <span> Culture </span> </h2>
                 <p>Company’s culture is a part important of any business</p>
@@ -479,7 +479,7 @@ Mitsafe believes in the professionalism and with our quality services, we have c
                     <div class="swiper-pagination"></div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- ====== end Culture ====== -->
 
 
