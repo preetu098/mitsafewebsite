@@ -1,5 +1,5 @@
 <?php
-
+//pratibha change testing
 // configure
 $from = 'Demo contact form <demo@domain.com>';
 $sendTo = 'Test contact form <youremail@gmail.com>'; // Add Your Email
